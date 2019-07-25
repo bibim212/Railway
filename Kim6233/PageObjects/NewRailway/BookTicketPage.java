@@ -1,6 +1,5 @@
 package NewRailway;
 
-import Railway.NewTicket;
 import core.Button;
 import core.DropDownlist;
 import core.Label;
@@ -28,31 +27,31 @@ public class BookTicketPage extends GeneralPage {
 		return lblErrorTicketAmount.getText();
 	}
 
-	public void submitBookTicketForm(NewTicket tk) {
-		ddlDepartedDate.selectItemBy("ByVisibleText", tk._departedDate);
-		ddlDepartedFrom.selectItemBy("ByVisibleText", tk._departedFrom);
-		ddlSeatType.selectItemBy("ByVisibleText", tk._seatType);
-		ddlTicketAmount.selectItemBy("ByVisibleText", Integer.toString(tk._ticketAmount));
-		ddlArrivedAt.selectItemBy("ByVisibleText", tk._arrivedAt);
+	public void submitBookTicketForm(Ticket tk) {
+		ddlDepartedDate.selectItemByVisibleText(tk._departedDate);
+		ddlDepartedFrom.selectItemByVisibleText(tk._departedFrom);
+		ddlSeatType.selectItemByVisibleText(tk._seatType);
+		ddlTicketAmount.selectItemByVisibleText(Integer.toString(tk._ticketAmount));
+		ddlArrivedAt.selectItemByVisibleText(tk._arrivedAt);
 		btnBookTicket.click();
 	}
 
-	public BookTicketPage bookTicket(NewTicket tk) {
+	public BookTicketPage bookTicket(Ticket tk) {
 		submitBookTicketForm(tk);
 		return this;
 	}
 
-	public NewTicket[] bookTickets(int amount) {
-		NewTicket[] ntk = new NewTicket[amount - 1];
+	public Ticket[] bookTickets(int amount) {
+		Ticket[] ntk = new Ticket[amount - 1];
 		for (int i = 0; i < amount; i++) {
-			NewTicket tk = new NewTicket();
+			Ticket tk = new Ticket();
 			this.bookTicket(tk);
 			bookTicket(ntk[i]);
 		}
 		return ntk;
 	}
 
-	public NewTicket getTicketInfo() {
+	public Ticket getTicketInfo() {
 		String dDate = ddlDepartedDate.getFirstSelectedOption();
 		String dFrom = ddlDepartedFrom.getFirstSelectedOption();
 		String aAt = ddlArrivedAt.getFirstSelectedOption();
@@ -60,7 +59,7 @@ public class BookTicketPage extends GeneralPage {
 		String tAmount = ddlTicketAmount.getFirstSelectedOption();
 		int amount = Integer.parseInt(tAmount);
 
-		NewTicket tk = new NewTicket(dDate, dFrom, aAt, sType, amount);
+		Ticket tk = new Ticket(dDate, dFrom, aAt, sType, amount);
 		return tk;
 	}
 
