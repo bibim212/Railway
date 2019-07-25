@@ -1,0 +1,188 @@
+21:07:23.374 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:07:25.857 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+21:07:58.070 INFO  Helper.LogHelper General.GMailTests - 
+21:08:39.322 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:08:41.847 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+21:09:59.085 INFO  Helper.LogHelper General.GMailTests - 
+21:10:47.713 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:10:50.173 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+21:12:06.302 INFO  Helper.LogHelper General.GMailTests - 
+21:17:58.327 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:18:00.558 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+21:19:15.833 INFO  Helper.LogHelper General.GMailTests - 
+21:25:50.318 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:25:52.728 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+21:26:07.294 INFO  Helper.LogHelper General.GMailTests - 
+21:29:12.259 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:29:14.613 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+21:29:30.128 INFO  Helper.LogHelper General.GMailTests - 
+21:42:31.083 INFO  Helper.LogHelper Railway.RegisterTests - TC07 - User can create new account
+21:42:31.090 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:42:40.492 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:42:40.564 INFO  Helper.LogHelper Railway.RegisterTests - 
+21:42:44.258 INFO  Helper.LogHelper Railway.RegisterTests - TC08 - User can't login with an account hasn't been activated
+21:42:44.259 INFO  Helper.LogHelper Railway.RegisterTests - Pre-Condition: Create a new account but do not activate it
+21:42:44.259 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:42:51.990 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:42:52.265 INFO  Helper.LogHelper Railway.RegisterTests - 
+21:42:55.892 INFO  Helper.LogHelper Railway.RegisterTests - User can't create account while password and PID fields are empty
+21:42:55.892 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:43:04.057 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:43:05.311 INFO  Helper.LogHelper Railway.RegisterTests - 
+21:49:21.289 INFO  Helper.LogHelper Railway.RegisterTests - TC07 - User can create new account
+21:49:21.296 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:49:34.076 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:49:34.147 INFO  Helper.LogHelper Railway.RegisterTests - 
+21:53:25.960 INFO  Helper.LogHelper Railway.RegisterTests - TC08 - User can't login with an account hasn't been activated
+21:53:25.971 INFO  Helper.LogHelper Railway.RegisterTests - Pre-Condition: Create a new account but do not activate it
+21:53:25.971 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:53:34.385 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:53:35.241 INFO  Helper.LogHelper Railway.RegisterTests - 
+22:01:51.686 INFO  Helper.LogHelper Railway.RegisterTests - User can't create account while password and PID fields are empty
+22:01:51.693 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+22:01:52.366 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+22:01:52.529 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+22:01:52.529 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+22:01:53.115 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+22:01:53.115 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+22:01:53.115 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+22:01:53.261 INFO  Helper.LogHelper Railway.RegisterTests - 
+22:15:18.460 INFO  Helper.LogHelper Railway.RegisterTests - User can't create account while password and PID fields are empty
+22:15:18.467 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+22:15:19.249 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+22:15:19.452 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+22:15:19.453 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+22:15:19.979 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+22:15:19.979 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+22:15:19.979 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+22:15:20.105 INFO  Helper.LogHelper Railway.RegisterTests - 
+22:21:19.540 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+22:21:19.548 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+22:21:20.130 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+22:21:20.373 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+22:21:20.373 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+22:21:20.417 INFO  Helper.LogHelper Railway.ContactTests - 
+22:21:23.884 INFO  Helper.LogHelper Railway.RegisterTests - TC07 - User can create new account
+22:21:23.884 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+22:21:24.730 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+22:21:25.136 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+22:21:25.136 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+22:21:28.810 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+22:21:28.874 INFO  Helper.LogHelper Railway.RegisterTests - 
+22:21:32.283 INFO  Helper.LogHelper Railway.RegisterTests - TC08 - User can't login with an account hasn't been activated
+22:21:32.284 INFO  Helper.LogHelper Railway.RegisterTests - Pre-Condition: Create a new account but do not activate it
+22:21:32.284 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+22:21:32.960 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+22:21:33.146 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+22:21:33.146 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+22:21:36.622 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+22:21:36.684 INFO  Helper.LogHelper Railway.RegisterTests - 
+22:21:40.029 INFO  Helper.LogHelper Railway.RegisterTests - User can't create account while password and PID fields are empty
+22:21:40.029 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+22:21:40.476 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+22:21:40.723 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+22:21:40.723 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+22:21:41.418 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+22:21:41.419 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+22:21:41.419 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+22:21:41.547 INFO  Helper.LogHelper Railway.RegisterTests - 
+22:21:44.943 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+22:21:44.943 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+22:21:45.422 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+22:21:45.671 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+22:21:45.671 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+22:21:46.065 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+22:21:46.117 INFO  Helper.LogHelper Railway.LoginTests - 
+22:21:49.519 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+22:21:49.519 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+22:21:50.068 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+22:21:50.241 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+22:21:50.241 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+22:21:50.583 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+22:21:50.627 INFO  Helper.LogHelper Railway.LoginTests - 
+22:21:54.078 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+22:21:54.078 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+22:21:54.707 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+22:21:54.890 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+22:21:54.890 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+22:21:55.357 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+22:21:55.426 INFO  Helper.LogHelper Railway.LoginTests - 
+22:21:58.907 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+22:21:58.907 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+22:21:59.429 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+22:21:59.658 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+22:21:59.658 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+22:21:59.658 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+22:22:01.493 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+22:22:01.496 INFO  Helper.LogHelper Railway.LoginTests - 
+22:22:05.173 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+22:22:05.173 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+22:22:05.655 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+22:22:05.884 INFO  Helper.LogHelper STEP: 3. Login with valid account
+22:22:06.535 INFO  Helper.LogHelper Railway.LoginTests - 
+22:27:31.153 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+22:27:31.160 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+22:27:31.729 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+22:27:32.012 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+22:27:32.013 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+22:27:32.058 INFO  Helper.LogHelper Railway.ContactTests - 
+22:27:36.075 INFO  Helper.LogHelper Railway.RegisterTests - TC07 - User can create new account
+22:27:36.075 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+22:27:36.927 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+22:27:37.080 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+22:27:37.080 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+22:27:40.305 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+22:27:40.361 INFO  Helper.LogHelper Railway.RegisterTests - 
+22:27:44.381 INFO  Helper.LogHelper Railway.RegisterTests - TC08 - User can't login with an account hasn't been activated
+22:27:44.381 INFO  Helper.LogHelper Railway.RegisterTests - Pre-Condition: Create a new account but do not activate it
+22:27:44.381 INFO  Helper.LogHelper STEP: p1- Navigate to QA Railway Website
+22:27:44.927 INFO  Helper.LogHelper STEP: p2- Click on "Register" tab
+22:27:45.122 INFO  Helper.LogHelper STEP: p3- Enter valid information into all fields
+22:27:45.122 INFO  Helper.LogHelper STEP: p4- Click on "Register" button
+22:27:48.330 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+22:27:48.395 INFO  Helper.LogHelper Railway.RegisterTests - 
+22:27:52.252 INFO  Helper.LogHelper Railway.RegisterTests - User can't create account while password and PID fields are empty
+22:27:52.252 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+22:27:52.806 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+22:27:52.991 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+22:27:52.992 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+22:27:53.550 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+22:27:53.550 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+22:27:53.551 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+22:27:53.665 INFO  Helper.LogHelper Railway.RegisterTests - 
+22:27:57.650 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+22:27:57.650 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+22:27:58.501 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+22:27:58.650 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+22:27:58.650 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+22:27:59.231 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+22:27:59.257 INFO  Helper.LogHelper Railway.LoginTests - 
+22:28:03.269 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+22:28:03.269 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+22:28:03.880 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+22:28:04.113 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+22:28:04.113 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+22:28:04.517 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+22:28:04.566 INFO  Helper.LogHelper Railway.LoginTests - 
+22:28:08.627 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+22:28:08.627 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+22:28:09.241 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+22:28:09.411 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+22:28:09.411 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+22:28:09.796 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+22:28:09.843 INFO  Helper.LogHelper Railway.LoginTests - 
+22:28:13.895 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+22:28:13.895 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+22:28:14.404 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+22:28:14.624 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+22:28:14.624 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+22:28:14.624 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+22:28:16.405 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+22:28:16.409 INFO  Helper.LogHelper Railway.LoginTests - 
+22:28:20.399 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+22:28:20.399 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+22:28:20.929 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+22:28:21.101 INFO  Helper.LogHelper STEP: 3. Login with valid account
+22:28:21.692 INFO  Helper.LogHelper Railway.LoginTests - 
+23:24:20.690 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+23:24:36.359 INFO  Helper.LogHelper Railway.ManageAccountTests - 

@@ -1,0 +1,420 @@
+11:31:51.158 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+11:31:51.179 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+11:31:51.179 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:31:51.179 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+11:31:51.179 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+11:31:51.179 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+11:31:52.025 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+11:31:52.128 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+11:32:03.354 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+11:32:17.801 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+11:32:17.801 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+11:32:17.801 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:32:17.802 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+11:32:17.802 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+11:32:17.802 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+11:32:17.806 INFO  Helper.LogHelper Railway.BookTicketTests - 
+11:32:29.151 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+11:32:47.163 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+11:32:47.163 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+11:32:47.163 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+11:32:47.163 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+11:32:47.163 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+11:32:53.280 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+11:32:53.345 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:32:58.537 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+11:32:58.537 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+11:32:58.537 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+11:32:58.537 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+11:32:58.537 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+11:33:00.291 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+11:33:00.292 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+11:33:00.292 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+11:33:00.446 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:33:06.678 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+11:33:06.679 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+11:33:06.679 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+11:33:06.679 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+11:33:06.679 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+11:33:08.609 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+11:33:08.672 INFO  Helper.LogHelper Railway.LoginTests - 
+11:33:14.215 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+11:33:14.215 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+11:33:14.215 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+11:33:14.215 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+11:33:14.215 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+11:33:15.643 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+11:33:15.708 INFO  Helper.LogHelper Railway.LoginTests - 
+11:33:21.620 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+11:33:21.621 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+11:33:21.621 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+11:33:21.621 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+11:33:21.621 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+11:33:23.041 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+11:33:23.059 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+11:33:23.108 INFO  Helper.LogHelper Railway.LoginTests - 
+11:33:28.425 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+11:33:28.426 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:33:28.426 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+11:33:28.426 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+11:33:28.426 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+11:33:28.426 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+11:33:31.894 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+11:33:31.894 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+11:33:31.900 INFO  Helper.LogHelper Railway.LoginTests - 
+11:33:37.779 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+11:33:37.779 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:33:37.779 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+11:33:37.779 INFO  Helper.LogHelper STEP: 3. Login with valid account
+11:33:41.288 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+11:33:41.457 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+11:33:41.517 INFO  Helper.LogHelper STEP: Click "Change password" tab
+11:33:41.757 INFO  Helper.LogHelper Railway.LoginTests - 
+11:33:55.003 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+11:34:12.152 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+11:34:12.152 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+11:34:12.152 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:34:12.152 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+11:34:12.152 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+11:34:12.153 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+11:34:12.155 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+11:34:23.467 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+11:34:42.120 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+11:34:42.120 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+11:34:42.120 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+11:34:43.448 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+11:34:43.448 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+11:34:43.450 INFO  Helper.LogHelper Railway.ContactTests - 
+11:44:56.897 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+11:51:20.611 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+12:00:13.919 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+12:04:15.031 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+12:48:44.669 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+12:52:03.727 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+12:56:27.538 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+12:58:19.667 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:01:15.168 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:04:37.884 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:05:56.466 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:07:37.624 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:11:53.869 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:17:43.127 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:23:32.656 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:24:14.974 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:34:38.389 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:41:43.713 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:43:00.287 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:46:20.651 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:51:25.503 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:52:37.869 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:53:52.501 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+13:54:07.977 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+13:54:07.978 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+13:54:07.978 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:54:07.978 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+13:54:07.978 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+13:54:07.978 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+13:54:16.845 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+13:54:17.529 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+13:54:17.529 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+13:54:17.654 INFO  Helper.LogHelper Railway.BookTicketTests - 
+16:49:33.829 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+16:49:49.114 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+16:49:49.115 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+16:49:49.115 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:49:49.115 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+16:49:49.115 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+16:49:49.116 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+16:49:58.578 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+16:49:59.216 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+16:49:59.216 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+16:49:59.319 INFO  Helper.LogHelper Railway.BookTicketTests - 
+16:50:10.098 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+16:50:26.208 INFO  Helper.LogHelper Railway.BookTicketTests - NOT COMPLETED YET due to expectation - Click Ticket Price
+16:50:26.208 INFO  Helper.LogHelper Railway.BookTicketTests - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+16:50:26.209 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:50:26.209 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+16:50:26.209 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+16:50:27.191 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+16:50:27.192 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+16:50:27.683 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+16:50:27.687 INFO  Helper.LogHelper Railway.BookTicketTests - 
+16:50:37.106 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+16:54:07.624 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+16:54:25.965 INFO  Helper.LogHelper Railway.BookTicketTests - TC16 - User can cancel a ticket
+16:54:25.965 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+16:54:25.965 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:54:25.966 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+16:54:26.957 INFO  Helper.LogHelper STEP: 3. Book a ticket
+16:54:27.770 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" tab
+16:54:27.965 INFO  Helper.LogHelper STEP: 5. Click on "Cancel" button of ticket which user
+ want to cancel
+16:54:27.966 INFO  Helper.LogHelper STEP: 6. Click on "OK" button on Confirmation message
+ Are you sure?"
+16:54:28.179 INFO  Helper.LogHelper VERIFY POINT: The canceled ticket is disappeared.
+16:54:28.179 INFO  Helper.LogHelper  Bug #04-User cannot cancel the ticket. 
+16:54:28.348 INFO  Helper.LogHelper Railway.BookTicketTests - 
+16:57:26.880 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+16:57:26.889 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+16:57:26.890 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:57:26.890 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+16:57:26.890 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+16:57:26.890 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+16:57:27.640 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+16:57:27.723 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+16:57:38.459 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+16:57:58.903 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+16:57:58.904 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+16:57:58.904 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+16:57:58.904 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+16:57:58.904 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+16:58:05.196 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+16:58:05.249 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+16:58:10.103 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+16:58:10.103 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+16:58:10.103 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+16:58:10.103 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+16:58:10.103 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+16:58:11.726 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+16:58:11.726 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+16:58:11.727 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+16:58:11.858 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+16:58:16.930 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+16:58:16.930 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+16:58:16.930 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+16:58:16.930 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+16:58:16.930 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+16:58:18.700 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+16:58:18.756 INFO  Helper.LogHelper Railway.LoginTests - 
+16:58:23.346 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+16:58:23.347 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+16:58:23.347 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+16:58:23.347 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+16:58:23.347 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+16:58:24.879 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+16:58:24.927 INFO  Helper.LogHelper Railway.LoginTests - 
+16:58:29.615 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+16:58:29.615 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+16:58:29.615 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+16:58:29.615 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+16:58:29.615 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+16:58:30.782 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+16:58:30.784 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+16:58:30.851 INFO  Helper.LogHelper Railway.LoginTests - 
+16:58:36.381 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+16:58:36.382 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:58:36.382 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+16:58:36.382 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+16:58:36.382 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+16:58:36.382 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+16:58:38.872 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+16:58:38.873 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+16:58:38.879 INFO  Helper.LogHelper Railway.LoginTests - 
+16:58:43.372 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+16:58:43.372 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:58:43.372 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+16:58:43.372 INFO  Helper.LogHelper STEP: 3. Login with valid account
+16:58:44.937 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+16:58:45.103 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+16:58:45.162 INFO  Helper.LogHelper STEP: Click "Change password" tab
+16:58:45.409 INFO  Helper.LogHelper Railway.LoginTests - 
+16:58:57.487 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+16:59:17.251 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+16:59:17.251 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+16:59:17.251 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+16:59:22.262 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+16:59:22.262 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+16:59:22.266 INFO  Helper.LogHelper Railway.ContactTests - 
+17:37:29.747 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:39:03.799 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:39:22.065 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+17:39:22.066 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+17:39:22.066 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:39:22.066 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+17:39:22.066 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+17:39:22.066 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+17:39:32.158 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+17:39:32.856 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+17:39:32.856 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+17:39:32.964 INFO  Helper.LogHelper Railway.BookTicketTests - 
+17:39:44.774 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:40:00.313 INFO  Helper.LogHelper Railway.BookTicketTests - NOT COMPLETED YET due to expectation - Click Ticket Price
+17:40:00.313 INFO  Helper.LogHelper Railway.BookTicketTests - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+17:40:00.313 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:40:00.313 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+17:40:00.314 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+17:40:01.413 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+17:40:01.413 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+17:40:01.898 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+17:40:01.901 INFO  Helper.LogHelper Railway.BookTicketTests - 
+17:40:13.808 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:40:28.822 INFO  Helper.LogHelper Railway.BookTicketTests - TC16 - User can cancel a ticket
+17:40:28.822 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+17:40:28.822 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:40:28.822 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+17:40:29.916 INFO  Helper.LogHelper STEP: 3. Book a ticket
+17:40:30.900 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" tab
+17:40:31.119 INFO  Helper.LogHelper STEP: 5. Click on "Cancel" button of ticket which user
+ want to cancel
+17:40:31.120 INFO  Helper.LogHelper STEP: 6. Click on "OK" button on Confirmation message
+ Are you sure?"
+17:40:31.289 INFO  Helper.LogHelper VERIFY POINT: The canceled ticket is disappeared.
+17:40:31.289 INFO  Helper.LogHelper  Bug #04-User cannot cancel the ticket. 
+17:40:31.378 INFO  Helper.LogHelper Railway.BookTicketTests - 
+17:43:19.585 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:43:35.080 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+17:43:35.080 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+17:43:35.080 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:43:35.080 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+17:43:35.080 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+17:43:35.080 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+17:43:36.107 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+17:45:56.092 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:46:11.054 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+17:46:11.055 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+17:46:11.055 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:46:11.055 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+17:46:11.055 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+17:46:11.055 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+17:46:16.973 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+17:46:16.973 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+17:46:16.974 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+17:46:16.974 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+17:46:23.352 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:47:19.240 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+17:48:46.757 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:49:01.449 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+17:49:01.449 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+17:49:01.449 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:49:01.449 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+17:49:01.449 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+17:49:01.450 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+17:49:06.928 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+17:49:06.929 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+17:49:06.929 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+17:49:06.929 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+17:49:12.974 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:49:36.859 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+17:50:02.248 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:50:17.791 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+17:50:17.791 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+17:50:17.791 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:50:17.791 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+17:50:17.791 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+17:50:17.791 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+17:50:23.086 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+17:50:23.086 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+17:50:23.086 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+17:50:23.087 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+17:50:24.649 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:51:25.041 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+17:56:23.675 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+17:59:46.673 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:02:59.031 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:03:14.146 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:03:14.146 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:03:14.147 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:03:14.147 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:03:14.147 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:03:14.147 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:03:17.817 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+18:03:17.817 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+18:03:17.817 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+18:03:17.817 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+18:03:19.460 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:04:19.946 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:04:30.271 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:07:30.580 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:09:21.826 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:11:40.509 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:16:17.586 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:16:32.922 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:16:32.922 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:16:32.923 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:16:32.923 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:16:32.923 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:16:32.923 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:16:33.908 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:19:59.614 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:21:46.226 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:22:54.411 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:24:08.347 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:26:36.564 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:29:44.386 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:29:59.865 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:29:59.865 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:29:59.865 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:29:59.866 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:29:59.866 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:29:59.866 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:30:03.707 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+18:30:03.707 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+18:30:03.707 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+18:30:03.707 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+18:30:10.272 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:31:10.630 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:33:59.781 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:34:14.884 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:34:14.884 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:34:14.884 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:34:14.884 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:34:14.884 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:34:14.884 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:34:18.687 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+18:34:18.687 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+18:34:18.687 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+18:34:18.687 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+18:35:19.087 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:38:10.475 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:43:05.487 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:44:25.694 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:45:47.640 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:48:08.995 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:48:23.512 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:48:23.512 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:48:23.512 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:48:23.512 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:48:23.512 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:48:23.512 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:48:28.026 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:49:09.171 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:49:24.267 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:49:24.267 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:49:24.268 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:49:24.268 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:49:24.268 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:49:24.268 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:49:28.558 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+18:49:28.559 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+18:49:28.559 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+18:49:28.559 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+18:49:30.115 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:50:30.429 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:51:28.160 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:51:42.835 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:51:42.836 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:51:42.836 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:51:42.836 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:51:42.836 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:51:42.836 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:51:46.755 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+18:51:46.755 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+18:51:46.755 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+18:51:46.756 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+18:52:47.140 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:53:45.176 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+18:54:00.142 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:54:00.142 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:54:00.143 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:54:00.143 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:54:00.143 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:54:00.143 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:54:03.709 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+18:54:03.709 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+18:54:03.709 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+18:54:03.709 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+18:55:04.047 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 

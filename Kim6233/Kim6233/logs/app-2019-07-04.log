@@ -1,0 +1,117 @@
+21:43:36.181 INFO  Helper.LogHelper Railway.Chk - 
+21:44:01.621 INFO  Helper.LogHelper Railway.Chk - 
+21:44:05.689 INFO  Helper.LogHelper Railway.BookTests - TC14 - User can't book more than 10 tickets
+21:44:05.689 INFO  Helper.LogHelper Railway.BookTests - Pre-condition: LOGIN WITH ACTIVATING ACCOUNT
+21:44:05.689 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:44:05.689 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+21:44:05.689 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+21:44:05.689 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+21:44:26.951 INFO  Helper.LogHelper Railway.BookTests - 
+21:44:31.026 INFO  Helper.LogHelper Railway.BookTests - TC15 - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+21:44:31.026 INFO  Helper.LogHelper Railway.BookTests - Pre-condition: LOGIN WITH ACTIVATING ACCOUNT
+21:44:31.026 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:44:31.026 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+21:44:31.027 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+21:44:52.317 INFO  Helper.LogHelper Railway.BookTests - 
+21:44:56.408 INFO  Helper.LogHelper Railway.BookTests - TC16 - User can cancel a ticket
+21:44:56.409 INFO  Helper.LogHelper Railway.BookTests - Pre-condition: LOGIN WITH ACTIVATING ACCOUNT
+21:44:56.409 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:44:56.409 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+21:45:17.676 INFO  Helper.LogHelper Railway.BookTests - 
+21:51:03.196 INFO  Helper.LogHelper Railway.Chk - 
+21:51:07.492 INFO  Helper.LogHelper Railway.Chk - 
+21:51:32.769 INFO  Helper.LogHelper Railway.Chk - 
+21:51:58.153 INFO  Helper.LogHelper Railway.Chk - 
+21:52:02.253 INFO  Helper.LogHelper Railway.BookTests - TC14 - User can't book more than 10 tickets
+21:52:02.253 INFO  Helper.LogHelper Railway.BookTests - Pre-condition: LOGIN WITH ACTIVATING ACCOUNT
+21:52:02.253 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:52:02.253 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+21:52:02.253 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+21:52:02.254 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+21:52:23.567 INFO  Helper.LogHelper Railway.BookTests - 
+21:52:27.687 INFO  Helper.LogHelper Railway.BookTests - TC15 - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+21:52:27.687 INFO  Helper.LogHelper Railway.BookTests - Pre-condition: LOGIN WITH ACTIVATING ACCOUNT
+21:52:27.687 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:52:27.687 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+21:52:27.688 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+21:52:48.974 INFO  Helper.LogHelper Railway.BookTests - 
+21:52:53.048 INFO  Helper.LogHelper Railway.BookTests - TC16 - User can cancel a ticket
+21:52:53.048 INFO  Helper.LogHelper Railway.BookTests - Pre-condition: LOGIN WITH ACTIVATING ACCOUNT
+21:52:53.048 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:52:53.048 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+21:53:14.306 INFO  Helper.LogHelper Railway.BookTests - 
+21:56:40.362 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+21:56:40.369 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:56:40.370 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:56:40.370 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+21:56:40.370 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+21:57:01.646 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:57:05.713 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+21:57:05.713 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:57:05.713 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:57:05.713 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+21:57:05.714 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+21:57:27.001 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:57:31.144 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+21:57:31.144 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:57:31.144 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:57:31.144 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+21:57:31.144 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+21:57:48.363 INFO  Helper.LogHelper Railway.LoginTests - 
+21:57:52.552 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+21:57:52.552 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:57:52.552 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:57:52.552 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+21:57:52.552 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+22:00:20.449 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+22:00:20.460 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+22:00:20.460 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+22:00:20.460 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+22:00:20.460 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+22:00:41.738 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+22:00:45.863 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+22:00:45.863 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+22:00:45.863 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+22:00:45.863 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+22:00:45.863 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+22:01:07.140 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+22:01:11.276 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+22:01:11.276 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+22:01:11.276 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+22:01:11.276 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+22:01:11.276 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+22:01:32.551 INFO  Helper.LogHelper Railway.LoginTests - 
+22:01:36.625 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+22:01:36.625 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+22:01:36.625 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+22:01:36.625 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+22:01:36.625 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+22:01:57.956 INFO  Helper.LogHelper Railway.LoginTests - 
+22:02:02.126 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+22:02:02.126 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+22:02:02.126 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+22:02:02.126 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+22:02:02.126 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+22:02:23.607 INFO  Helper.LogHelper Railway.LoginTests - 
+22:02:27.807 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+22:02:27.807 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+22:02:27.807 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+22:02:27.807 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+22:02:27.807 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+22:02:27.807 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+22:02:49.100 INFO  Helper.LogHelper Railway.LoginTests - 
+22:02:53.186 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+22:02:53.186 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+22:02:53.186 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+22:02:53.186 INFO  Helper.LogHelper STEP: 3. Login with valid account
+22:03:14.454 INFO  Helper.LogHelper Railway.LoginTests - 
+22:04:40.340 INFO  Helper.LogHelper Railway.Chk - 
+22:04:44.360 INFO  Helper.LogHelper Railway.Chk - 
+22:05:09.663 INFO  Helper.LogHelper Railway.Chk - 
+22:05:35.129 INFO  Helper.LogHelper Railway.Chk - 
+22:06:03.881 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+22:06:03.881 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+22:06:03.881 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+22:06:25.149 INFO  Helper.LogHelper Railway.ContactTests - 

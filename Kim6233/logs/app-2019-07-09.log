@@ -1,0 +1,179 @@
+14:13:52.522 INFO  Helper.LogHelper Railway.Recheck - 
+14:15:59.788 INFO  Helper.LogHelper Railway.Recheck - 
+14:30:55.342 INFO  Helper.LogHelper Railway.Recheck - 
+14:39:57.850 INFO  Helper.LogHelper Railway.Recheck - 
+14:57:22.643 INFO  Helper.LogHelper Railway.Recheck - 
+15:01:14.177 INFO  Helper.LogHelper Railway.FinalTest01 - Pre-condition: Create and activate a new account
+15:01:14.197 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+15:01:14.197 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+15:01:14.198 INFO  Helper.LogHelper STEP: 3. Book more than 6 tickets with different Depart Dates
+15:01:21.557 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" button
+15:01:21.558 INFO  Helper.LogHelper STEP: 5. Input one of booked Depart Date in "Depart date" textbox
+15:01:21.558 INFO  Helper.LogHelper STEP: 6. Click on "Apply filter" button
+15:01:22.089 INFO  Helper.LogHelper VERIFY POINT: Manage ticket table shows correct ticket(s)
+15:01:22.172 INFO  Helper.LogHelper Railway.FinalTest01 - 
+15:04:11.964 INFO  Helper.LogHelper Railway.FinalTest01 - Pre-condition: Create and activate a new account
+15:04:11.981 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+15:04:11.986 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+15:04:11.987 INFO  Helper.LogHelper STEP: 3. Book more than 6 tickets with different Depart Dates
+15:04:19.167 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" button
+15:04:19.167 INFO  Helper.LogHelper STEP: 5. Input one of booked Depart Date in "Depart date" textbox
+15:04:19.167 INFO  Helper.LogHelper STEP: 6. Click on "Apply filter" button
+15:04:19.768 INFO  Helper.LogHelper VERIFY POINT: Manage ticket table shows correct ticket(s)
+15:04:19.830 INFO  Helper.LogHelper Railway.FinalTest01 - 
+15:08:13.128 INFO  Helper.LogHelper Railway.FinalTest01 - Pre-condition: Create and activate a new account
+15:08:13.143 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+15:08:13.144 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+15:08:13.144 INFO  Helper.LogHelper STEP: 3. Book more than 6 tickets with different Depart Dates
+15:08:20.309 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" button
+15:08:20.309 INFO  Helper.LogHelper STEP: 5. Input one of booked Depart Date in "Depart date" textbox
+15:08:20.309 INFO  Helper.LogHelper STEP: 6. Click on "Apply filter" button
+15:08:20.854 INFO  Helper.LogHelper VERIFY POINT: Manage ticket table shows correct ticket(s)
+15:08:20.928 INFO  Helper.LogHelper Railway.FinalTest01 - 
+15:09:23.906 INFO  Helper.LogHelper Railway.Recheck - 
+15:18:48.240 INFO  Helper.LogHelper Railway.Recheck - 
+15:23:48.189 INFO  Helper.LogHelper Railway.FinalTest01 - Pre-condition: Create and activate a new account
+15:23:48.202 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+15:23:48.202 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+15:23:48.202 INFO  Helper.LogHelper STEP: 3. Book more than 6 tickets with different Depart Dates
+15:23:55.571 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" button
+15:23:55.572 INFO  Helper.LogHelper STEP: 5. Input one of booked Depart Date in "Depart date" textbox
+15:23:55.572 INFO  Helper.LogHelper STEP: 6. Click on "Apply filter" button
+15:23:56.156 INFO  Helper.LogHelper VERIFY POINT: Manage ticket table shows correct ticket(s)
+15:23:58.412 INFO  Helper.LogHelper Railway.FinalTest01 - 
+15:40:38.222 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+15:40:38.237 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+15:40:42.216 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+15:40:42.216 INFO  Helper.LogHelper STEP: 4. Get the activation code
+15:40:59.780 INFO  Helper.LogHelper Railway.FinalTest02 - 
+15:47:25.022 INFO  Helper.LogHelper Railway.Recheck - 
+15:48:18.233 INFO  Helper.LogHelper Railway.Recheck - 
+15:49:43.212 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+15:49:43.220 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+15:49:47.516 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+15:49:47.516 INFO  Helper.LogHelper STEP: 4. Get the activation code
+15:49:50.595 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+15:49:50.595 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+15:49:50.605 INFO  Helper.LogHelper Railway.FinalTest02 - 
+15:52:50.579 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+15:52:50.593 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+15:52:55.324 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+15:52:55.324 INFO  Helper.LogHelper STEP: 4. Get the activation code
+15:52:58.295 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+15:52:58.295 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+15:52:58.303 INFO  Helper.LogHelper Railway.FinalTest02 - 
+15:54:51.660 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+15:54:51.665 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+15:54:56.397 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+15:54:56.397 INFO  Helper.LogHelper STEP: 4. Get the activation code
+15:54:59.954 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+15:54:59.954 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+15:54:59.965 INFO  Helper.LogHelper Railway.FinalTest02 - 
+15:55:43.887 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+15:55:43.895 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+15:55:48.580 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+15:55:48.580 INFO  Helper.LogHelper STEP: 4. Get the activation code
+15:55:56.665 INFO  Helper.LogHelper Railway.FinalTest02 - 
+15:57:34.658 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+15:57:34.665 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+15:57:39.141 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+15:57:39.142 INFO  Helper.LogHelper STEP: 4. Get the activation code
+15:57:43.252 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+15:57:43.252 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+15:57:43.273 INFO  Helper.LogHelper Railway.FinalTest02 - 
+16:03:36.965 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:03:36.972 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:03:41.403 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:03:41.404 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:03:44.483 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:03:44.483 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:03:45.280 INFO  Helper.LogHelper VERIFY POINT: Message "Regisration Confirmed! You can now log in to the site." displays
+16:03:45.293 INFO  Helper.LogHelper Railway.FinalTest02 - 
+16:06:54.755 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:06:54.762 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:06:59.318 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:06:59.318 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:07:02.475 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:07:02.475 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:07:03.441 INFO  Helper.LogHelper VERIFY POINT: Message "Registration Confirmed! You can now log in to the site." displays
+16:07:03.455 INFO  Helper.LogHelper Railway.FinalTest02 - 
+16:08:15.191 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:08:15.198 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:08:19.992 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:08:19.992 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:08:23.240 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:08:23.240 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:08:24.037 INFO  Helper.LogHelper VERIFY POINT: Message "Registration Confirmed! You can now log in to the site." displays
+16:12:00.917 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:12:00.925 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:12:06.019 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:12:06.019 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:12:09.286 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:12:09.286 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:12:10.173 INFO  Helper.LogHelper VERIFY POINT: Message "Registration Confirmed! You can now log in to the site." displays
+16:14:01.997 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:14:02.005 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:14:06.837 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:14:06.837 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:14:09.951 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:14:09.951 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:14:10.902 INFO  Helper.LogHelper VERIFY POINT: Message "Registration Confirmed! You can now log in to the site." displays
+16:15:13.004 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:15:13.013 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:15:17.540 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:15:17.540 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:15:20.762 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:15:20.762 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:15:21.640 INFO  Helper.LogHelper VERIFY POINT: Message "Registration Confirmed! You can now log in to the site." displays
+16:16:15.191 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:16:15.198 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:16:19.744 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:16:19.745 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:16:22.896 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:16:22.896 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:16:23.689 INFO  Helper.LogHelper VERIFY POINT: Message "Registration Confirmed! You can now log in to the site." displays
+16:19:59.864 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:19:59.872 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:20:05.373 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:20:05.374 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:20:08.366 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:20:08.366 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:20:09.125 INFO  Helper.LogHelper VERIFY POINT: Message "Registration Confirmed! You can now log in to the site." displays
+16:26:05.279 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:26:05.287 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:26:10.043 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:26:10.043 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:26:13.013 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:26:13.013 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:26:14.013 INFO  Helper.LogHelper VERIFY POINT: Message "Registration Confirmed! You can now log in to the site." displays
+16:26:14.068 INFO  Helper.LogHelper STEP: 7. Login with this account
+16:26:14.837 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+16:27:30.682 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:27:30.692 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:27:35.190 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:27:35.191 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:27:38.434 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:27:38.435 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:27:39.270 INFO  Helper.LogHelper VERIFY POINT: Message "Registration Confirmed! You can now log in to the site." displays
+16:27:39.330 INFO  Helper.LogHelper STEP: 7. Login with this account
+16:27:39.985 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+16:27:40.040 INFO  Helper.LogHelper Railway.FinalTest02 - 
+16:31:22.186 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:31:22.186 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+16:31:27.158 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+16:31:27.158 INFO  Helper.LogHelper STEP: 4. Get the activation code
+16:31:30.315 INFO  Helper.LogHelper STEP: 5. Back to Register Page, click on "here" link to enter the activation code
+16:31:30.315 INFO  Helper.LogHelper STEP: 6. Enter the activation code from step 4 and click on "Confirm" button
+16:31:31.291 INFO  Helper.LogHelper VERIFY POINT: Message "Registration Confirmed! You can now log in to the site." displays
+16:31:31.343 INFO  Helper.LogHelper STEP: 7. Login with this account
+16:31:32.091 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+16:31:32.158 INFO  Helper.LogHelper Railway.FinalTest02 - 
+16:31:58.087 INFO  Helper.LogHelper Railway.FinalTest01 - Pre-condition: Create and activate a new account
+16:31:58.087 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+16:31:58.087 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+16:31:58.087 INFO  Helper.LogHelper STEP: 3. Book more than 6 tickets with different Depart Dates
+16:32:05.596 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" button
+16:32:05.596 INFO  Helper.LogHelper STEP: 5. Input one of booked Depart Date in "Depart date" textbox
+16:32:05.596 INFO  Helper.LogHelper STEP: 6. Click on "Apply filter" button
+16:32:06.147 INFO  Helper.LogHelper VERIFY POINT: Manage ticket table shows correct ticket(s)
+16:32:08.354 INFO  Helper.LogHelper Railway.FinalTest01 - 

@@ -1,0 +1,38 @@
+21:11:52.562 INFO  Helper.LogHelper Railway.ManageAccountTests - FTTC02 - User can also active new account using activate code
+21:11:52.577 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:11:52.577 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+21:12:13.889 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:12:18.044 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+21:12:18.045 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:12:18.045 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:12:18.045 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+21:12:18.045 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+21:12:18.662 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:12:22.903 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+21:12:22.904 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:12:22.904 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+21:12:22.904 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+21:12:22.904 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+21:12:42.379 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:12:55.428 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+21:12:55.428 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:12:55.428 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:12:55.429 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+21:12:55.429 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+21:13:01.456 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:13:24.096 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+21:13:24.096 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+21:13:24.096 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+21:13:45.444 INFO  Helper.LogHelper Railway.ContactTests - 
+21:14:14.742 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+21:14:14.742 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:14:14.742 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:14:14.742 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+21:14:14.742 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+21:14:36.162 INFO  Helper.LogHelper Railway.LoginTests - 
+21:14:40.481 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+21:14:40.481 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:14:40.481 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:14:40.482 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+21:14:40.482 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+21:15:01.793 INFO  Helper.LogHelper Railway.LoginTests - 

@@ -1,0 +1,28 @@
+21:47:37.225 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:47:43.047 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+21:47:49.140 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:49:38.709 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:53:41.446 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:54:55.680 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:55:49.560 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:57:07.400 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:57:59.473 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+21:59:05.163 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+22:01:23.663 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+22:18:24.454 INFO  Helper.LogHelper Railway.AccountManagementTests - 
+22:28:54.410 INFO  Helper.LogHelper Railway.AccountManagementTests - 
+22:30:52.846 INFO  Helper.LogHelper Railway.AccountManagementTests - 
+22:52:10.842 INFO  Helper.LogHelper Railway.AccountManagementTests - TC08 - User can't login with an account hasn't been activated
+22:52:10.853 INFO  Helper.LogHelper Railway.AccountManagementTests - Pre-Condition: Create a new account but do not activate it
+22:52:10.853 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+22:52:10.853 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+22:52:10.853 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+22:52:10.853 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+22:52:11.182 INFO  Helper.LogHelper Railway.AccountManagementTests - 
+22:53:01.367 INFO  Helper.LogHelper Railway.AccountManagementTests - TC08 - User can't login with an account hasn't been activated
+22:53:01.376 INFO  Helper.LogHelper Railway.AccountManagementTests - Pre-Condition: Create a new account but do not activate it
+22:53:01.376 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+22:53:01.376 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+22:53:01.376 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+22:53:01.376 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+22:53:01.691 INFO  Helper.LogHelper Railway.AccountManagementTests - 

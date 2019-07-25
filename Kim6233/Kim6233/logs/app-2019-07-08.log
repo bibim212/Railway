@@ -1,0 +1,1724 @@
+10:27:52.972 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+10:31:27.297 INFO  Helper.LogHelper Railway.tc09 - 
+10:33:37.629 INFO  Helper.LogHelper Railway.tc09 - 
+10:44:00.209 INFO  Helper.LogHelper Railway.tc09 - 
+10:50:46.669 INFO  Helper.LogHelper Railway.tc09 - TC09 - User can reset password successfully
+10:50:46.686 INFO  Helper.LogHelper Railway.tc09 - Pre-Condition: Create and activate a new account
+10:50:46.686 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+10:50:46.686 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+10:50:46.686 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+10:50:46.687 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+10:50:46.687 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+10:50:46.687 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+10:50:46.687 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+10:50:46.687 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+10:50:54.122 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+10:50:54.908 INFO  Helper.LogHelper Railway.tc09 - 
+10:54:17.367 INFO  Helper.LogHelper Railway.tc09 - TC09 - User can reset password successfully
+10:54:17.387 INFO  Helper.LogHelper Railway.tc09 - Pre-Condition: Create and activate a new account
+10:54:17.387 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+10:54:17.387 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+10:54:17.388 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+10:54:17.388 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+10:54:17.388 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+10:54:17.388 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+10:54:17.389 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+10:54:17.389 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+10:54:25.363 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+10:54:26.466 INFO  Helper.LogHelper Railway.tc09 - 
+10:56:30.598 INFO  Helper.LogHelper Railway.tc09 - TC09 - User can reset password successfully
+10:56:30.609 INFO  Helper.LogHelper Railway.tc09 - Pre-Condition: Create and activate a new account
+10:56:30.609 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+10:56:30.609 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+10:56:30.609 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+10:56:30.609 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+10:56:30.610 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+10:56:30.610 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+10:56:30.613 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+10:56:30.613 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+10:56:38.466 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+10:56:39.302 INFO  Helper.LogHelper Railway.tc09 - 
+10:58:32.794 INFO  Helper.LogHelper Railway.tc09 - TC09 - User can reset password successfully
+10:58:32.821 INFO  Helper.LogHelper Railway.tc09 - Pre-Condition: Create and activate a new account
+10:58:32.821 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+10:58:32.821 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+10:58:32.822 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+10:58:32.822 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+10:58:32.822 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+10:58:32.822 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+10:58:32.822 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+10:58:32.823 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+10:58:40.814 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+10:58:41.659 INFO  Helper.LogHelper Railway.tc09 - 
+11:01:25.447 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+11:01:25.455 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:01:25.455 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+11:01:25.455 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+11:01:25.455 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+11:01:25.511 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:02:24.350 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+11:02:24.358 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+11:02:24.359 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+11:02:24.359 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+11:02:24.359 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+11:02:28.742 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+11:02:28.833 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:02:41.880 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+11:02:41.880 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:02:41.880 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+11:02:41.881 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+11:02:41.881 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+11:02:48.028 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:02:50.563 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+11:02:50.573 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:02:50.573 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+11:02:50.574 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+11:02:50.574 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+11:02:52.203 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+11:02:52.204 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+11:02:52.204 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+11:02:52.204 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+11:02:52.204 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+11:02:53.299 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+11:02:53.419 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:02:54.341 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+11:02:54.341 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+11:02:54.341 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+11:02:54.494 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:03:12.690 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+11:03:12.698 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:03:12.698 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+11:03:12.698 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+11:03:12.698 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+11:03:13.801 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+11:03:13.878 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:04:36.025 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+11:04:36.033 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+11:04:36.033 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+11:04:36.033 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+11:04:36.033 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+11:04:38.955 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+11:04:43.011 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:04:47.165 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+11:04:47.166 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:04:47.166 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+11:04:47.166 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+11:04:47.166 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+11:04:48.551 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:05:01.205 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+11:05:01.205 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+11:05:01.205 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+11:05:01.205 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+11:05:01.205 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+11:05:07.233 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:05:11.549 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+11:05:11.560 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:05:11.560 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+11:05:11.561 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+11:05:11.561 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+11:05:12.655 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+11:05:12.706 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+11:08:59.922 INFO  Helper.LogHelper Railway.tc09 - TC09 - User can reset password successfully
+11:08:59.936 INFO  Helper.LogHelper Railway.tc09 - Pre-Condition: Create and activate a new account
+11:08:59.936 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:08:59.936 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+11:08:59.937 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+11:08:59.937 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+11:08:59.937 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+11:08:59.937 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+11:08:59.937 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+11:08:59.937 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+11:09:09.621 INFO  Helper.LogHelper Railway.tc09 - 
+11:22:09.348 INFO  Helper.LogHelper Railway.tc09 - TC12
+11:22:16.882 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+11:22:18.453 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+11:22:18.453 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+11:22:18.453 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+11:22:20.489 INFO  Helper.LogHelper Railway.tc09 - 
+11:26:34.760 INFO  Helper.LogHelper Railway.tc09 - TC12
+11:26:41.094 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+11:26:42.476 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+11:26:42.477 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+11:26:42.477 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+11:26:44.519 INFO  Helper.LogHelper Railway.tc09 - 
+11:34:46.687 INFO  Helper.LogHelper Railway.tc09 - TC12
+11:34:53.057 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+11:34:54.419 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+11:34:54.419 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+11:34:54.420 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+11:34:56.448 INFO  Helper.LogHelper Railway.tc09 - 
+11:45:28.070 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+11:45:28.088 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+11:45:28.089 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:45:28.089 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+11:45:28.089 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+11:45:28.089 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+11:45:28.090 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+11:45:34.450 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+11:45:37.500 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:19:25.931 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+12:19:25.945 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+12:19:25.945 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:19:25.945 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+12:19:25.946 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+12:19:25.946 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+12:19:25.946 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+12:19:32.500 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+12:19:33.575 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+12:19:33.575 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+12:19:33.884 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+12:19:33.892 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:22:20.983 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+12:22:20.997 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+12:22:20.998 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:22:20.998 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+12:22:20.998 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+12:22:20.998 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+12:22:20.999 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+12:22:27.279 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+12:22:28.368 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+12:22:28.368 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+12:22:28.889 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+12:22:28.902 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:26:20.623 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+12:26:20.641 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+12:26:20.642 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:26:20.642 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+12:26:20.642 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+12:26:20.642 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+12:26:20.642 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+12:26:27.952 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+12:26:29.027 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+12:26:29.027 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+12:26:29.324 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+12:26:29.330 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:27:59.830 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+12:27:59.844 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+12:27:59.844 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:27:59.845 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+12:27:59.845 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+12:27:59.845 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+12:27:59.845 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+12:28:07.426 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+12:28:08.502 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+12:28:08.502 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+12:28:09.087 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+12:28:09.095 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:33:09.372 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+12:33:09.387 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+12:33:09.387 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:33:09.387 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+12:33:09.387 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+12:33:09.387 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+12:33:09.388 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+12:33:17.614 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+12:33:18.690 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+12:33:18.691 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+12:33:19.206 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+12:33:19.206 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+12:33:19.206 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+12:33:21.249 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:35:42.182 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+12:35:42.191 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+12:35:42.191 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:35:42.191 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+12:35:42.191 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+12:35:42.191 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+12:35:42.898 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+12:35:42.940 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+12:35:47.597 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+12:35:47.598 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+12:35:47.598 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+12:35:47.598 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+12:35:47.598 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+12:35:51.829 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+12:35:51.895 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+12:35:55.978 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+12:35:55.978 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:35:55.978 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+12:35:55.979 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+12:35:55.979 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+12:35:57.104 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+12:35:57.146 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+12:36:01.191 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+12:36:01.192 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+12:36:01.192 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+12:36:01.192 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+12:36:01.192 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+12:36:02.274 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+12:36:02.274 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+12:36:02.275 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+12:36:02.399 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+12:36:29.660 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+12:36:29.660 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+12:36:29.661 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:36:29.661 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+12:36:29.661 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+12:36:29.661 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+12:36:29.661 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+12:36:29.661 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+12:36:29.661 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+12:36:29.662 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+12:36:38.854 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+12:36:39.553 INFO  Helper.LogHelper VERIFY POINT: User can login with new password
+12:36:39.655 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:37:08.140 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+12:37:08.140 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+12:37:08.140 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:37:08.140 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+12:37:08.140 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+12:37:08.140 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+12:37:08.140 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+12:37:15.375 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+12:37:16.441 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+12:37:16.442 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+12:37:17.011 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+12:37:17.011 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+12:37:17.011 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+12:37:19.058 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:37:23.238 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+12:37:23.238 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+12:37:23.238 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+12:37:24.145 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+12:37:24.145 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+12:37:24.148 INFO  Helper.LogHelper Railway.ContactTests - 
+12:37:40.433 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+12:38:01.756 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+12:38:01.756 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+12:38:01.756 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+12:38:01.756 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+12:38:01.756 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+12:38:04.409 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+12:38:04.459 INFO  Helper.LogHelper Railway.LoginTests - 
+12:38:14.517 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+12:38:14.518 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+12:38:14.518 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+12:38:14.518 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+12:38:14.518 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+12:38:18.136 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+12:38:18.178 INFO  Helper.LogHelper Railway.LoginTests - 
+12:38:26.262 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+12:38:26.263 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+12:38:26.263 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+12:38:26.263 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+12:38:26.263 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+12:38:29.065 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+12:38:29.065 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+12:38:29.104 INFO  Helper.LogHelper Railway.LoginTests - 
+12:38:34.953 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+12:38:34.953 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:38:34.953 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+12:38:34.953 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+12:38:34.953 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+12:38:34.953 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+12:38:39.077 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+12:38:39.078 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+12:38:39.080 INFO  Helper.LogHelper Railway.LoginTests - 
+12:38:49.670 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+12:38:49.670 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:38:49.670 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+12:38:49.670 INFO  Helper.LogHelper STEP: 3. Login with valid account
+12:38:53.277 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+12:38:53.432 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+12:38:53.481 INFO  Helper.LogHelper STEP: Click "Change password" tab
+12:38:53.719 INFO  Helper.LogHelper Railway.LoginTests - 
+12:46:03.585 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+12:46:03.611 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+12:46:03.612 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:46:03.612 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+12:46:03.612 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+12:46:03.612 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+12:46:06.274 INFO  Helper.LogHelper Railway.BookTicketTests - 
+12:47:38.498 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+12:47:38.521 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+12:47:38.521 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:47:38.521 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+12:47:38.521 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+12:47:38.521 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+12:47:44.528 INFO  Helper.LogHelper Railway.BookTicketTests - 
+12:49:12.414 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+12:49:12.422 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+12:49:12.422 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:49:12.423 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+12:49:12.423 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+12:49:12.423 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+12:49:13.151 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+12:49:13.196 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+12:49:17.866 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+12:49:17.867 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+12:49:17.867 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+12:49:17.867 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+12:49:17.867 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+12:49:22.214 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+12:49:22.279 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+12:49:26.894 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+12:49:26.894 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:49:26.894 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+12:49:26.894 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+12:49:26.895 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+12:49:27.996 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+12:49:28.053 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+12:49:32.702 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+12:49:32.702 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+12:49:32.703 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+12:49:32.703 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+12:49:32.703 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+12:49:33.856 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+12:49:33.856 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+12:49:33.856 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+12:49:33.992 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+12:50:00.125 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+12:50:00.126 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+12:50:00.126 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:50:00.126 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+12:50:00.126 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+12:50:00.126 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+12:50:00.126 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+12:50:00.126 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+12:50:00.126 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+12:50:00.127 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+12:50:08.200 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+12:50:09.003 INFO  Helper.LogHelper VERIFY POINT: User can login with new password
+12:50:09.146 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:50:33.361 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+12:50:33.361 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+12:50:33.361 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:50:33.362 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+12:50:33.362 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+12:50:33.362 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+12:50:33.362 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+12:50:40.522 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+12:50:41.614 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+12:50:41.615 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+12:50:42.286 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+12:50:42.287 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+12:50:42.287 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+12:50:44.325 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:50:49.121 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+12:50:49.121 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+12:50:49.121 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+12:50:49.703 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+12:50:49.703 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+12:50:49.707 INFO  Helper.LogHelper Railway.ContactTests - 
+12:51:13.891 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+12:51:13.891 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+12:51:13.891 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:51:13.891 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+12:51:13.891 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+12:51:13.891 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+12:51:23.028 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+12:51:23.655 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+12:51:23.655 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+12:51:23.740 INFO  Helper.LogHelper Railway.BookTicketTests - 
+12:54:53.090 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+12:54:53.102 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+12:54:53.103 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:54:53.103 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+12:54:53.103 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+12:54:53.103 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+12:54:53.901 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+12:54:53.964 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+12:54:58.539 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+12:54:58.539 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+12:54:58.539 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+12:54:58.539 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+12:54:58.540 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+12:55:02.786 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+12:55:02.854 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+12:55:07.506 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+12:55:07.506 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:55:07.506 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+12:55:07.506 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+12:55:07.507 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+12:55:08.609 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+12:55:08.670 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+12:55:13.310 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+12:55:13.311 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+12:55:13.311 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+12:55:13.311 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+12:55:13.311 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+12:55:14.401 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+12:55:14.401 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+12:55:14.401 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+12:55:14.541 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+12:55:39.442 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+12:55:39.443 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+12:55:39.443 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:55:39.443 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+12:55:39.443 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+12:55:39.443 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+12:55:39.443 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+12:55:39.443 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+12:55:39.444 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+12:55:39.445 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+12:55:47.686 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+12:55:48.431 INFO  Helper.LogHelper VERIFY POINT: User can login with new password
+12:55:48.529 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:56:13.075 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+12:56:13.076 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+12:56:13.076 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:56:13.076 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+12:56:13.076 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+12:56:13.076 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+12:56:13.076 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+12:56:19.403 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+12:56:20.487 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+12:56:20.487 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+12:56:21.053 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+12:56:21.054 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+12:56:21.056 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+12:56:23.094 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+12:56:28.078 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+12:56:28.079 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+12:56:28.079 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+12:56:28.735 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+12:56:28.736 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+12:56:28.741 INFO  Helper.LogHelper Railway.ContactTests - 
+12:56:52.980 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+12:56:52.981 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+12:56:52.981 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:56:52.981 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+12:56:52.981 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+12:56:52.981 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+12:57:02.239 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+12:57:02.916 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+12:57:02.916 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+12:57:03.029 INFO  Helper.LogHelper Railway.BookTicketTests - 
+12:57:28.295 INFO  Helper.LogHelper Railway.BookTicketTests - NOT COMPLETED YET due to expectation - Click Ticket Price
+12:57:28.295 INFO  Helper.LogHelper Railway.BookTicketTests - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+12:57:28.295 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:57:28.296 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+12:57:28.296 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+12:57:29.267 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+12:57:29.267 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+12:57:29.815 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+12:57:29.817 INFO  Helper.LogHelper Railway.BookTicketTests - 
+12:57:54.302 INFO  Helper.LogHelper Railway.BookTicketTests - TC16 - User can cancel a ticket
+12:57:54.303 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+12:57:54.303 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:57:54.303 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+12:57:55.305 INFO  Helper.LogHelper STEP: 3. Book a ticket
+12:57:56.180 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" tab
+12:57:56.404 INFO  Helper.LogHelper STEP: 5. Click on "Cancel" button of ticket which user
+ want to cancel
+12:57:56.404 INFO  Helper.LogHelper STEP: 6. Click on "OK" button on Confirmation message
+ Are you sure?"
+12:57:56.618 INFO  Helper.LogHelper VERIFY POINT: The canceled ticket is disappeared.
+12:57:56.618 INFO  Helper.LogHelper  Bug #04-User cannot cancel the ticket. 
+12:57:56.715 INFO  Helper.LogHelper Railway.BookTicketTests - 
+12:58:01.384 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+12:58:01.384 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+12:58:01.384 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+12:58:01.384 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+12:58:01.385 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+12:58:02.742 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+12:58:02.821 INFO  Helper.LogHelper Railway.LoginTests - 
+12:58:07.517 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+12:58:07.518 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+12:58:07.518 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+12:58:07.518 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+12:58:07.518 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+12:58:08.508 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+12:58:08.540 INFO  Helper.LogHelper Railway.LoginTests - 
+12:58:13.118 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+12:58:13.118 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+12:58:13.118 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+12:58:13.119 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+12:58:13.119 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+12:58:14.211 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+12:58:14.212 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+12:58:14.243 INFO  Helper.LogHelper Railway.LoginTests - 
+12:58:18.796 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+12:58:18.797 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:58:18.797 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+12:58:18.797 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+12:58:18.797 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+12:58:18.797 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+12:58:21.554 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+12:58:21.554 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+12:58:21.559 INFO  Helper.LogHelper Railway.LoginTests - 
+12:58:26.113 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+12:58:26.113 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+12:58:26.113 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+12:58:26.114 INFO  Helper.LogHelper STEP: 3. Login with valid account
+12:58:27.484 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+12:58:27.634 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+12:58:27.716 INFO  Helper.LogHelper STEP: Click "Change password" tab
+12:58:27.934 INFO  Helper.LogHelper Railway.LoginTests - 
+13:02:46.674 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+13:02:46.687 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+13:02:46.688 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:02:46.688 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+13:02:46.688 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+13:02:46.688 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+13:02:47.427 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+13:02:47.479 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+13:04:42.040 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+13:04:42.054 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+13:04:42.054 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:04:42.054 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+13:04:42.054 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+13:04:42.055 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+13:04:42.825 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+13:04:42.888 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+13:07:24.922 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+13:07:24.932 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+13:07:24.932 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:07:24.933 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+13:07:24.933 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+13:07:24.933 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+13:07:25.679 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+13:07:25.734 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+13:08:31.893 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+13:08:31.900 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+13:08:31.901 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+13:08:32.529 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+13:08:32.530 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+13:08:32.545 INFO  Helper.LogHelper Railway.ContactTests - 
+13:09:12.641 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+13:09:12.648 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+13:09:12.649 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+13:09:13.230 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+13:09:13.231 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+13:09:13.243 INFO  Helper.LogHelper Railway.ContactTests - 
+13:10:26.482 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+13:10:26.490 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+13:10:26.490 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+13:10:27.070 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+13:10:27.070 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+13:10:27.127 INFO  Helper.LogHelper Railway.ContactTests - 
+13:11:56.374 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+13:11:56.387 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+13:11:56.388 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:11:56.388 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+13:11:56.388 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+13:11:56.388 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+13:11:57.048 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+13:11:57.138 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+13:12:01.811 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+13:12:01.811 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+13:12:01.811 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+13:12:01.812 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+13:12:01.812 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+13:12:06.007 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+13:12:06.065 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+13:12:10.699 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+13:12:10.700 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:12:10.700 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+13:12:10.700 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+13:12:10.700 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+13:12:11.799 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+13:12:11.849 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+13:12:16.508 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+13:12:16.509 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+13:12:16.509 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+13:12:16.509 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+13:12:16.509 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+13:12:17.707 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+13:12:17.707 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+13:12:17.707 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+13:12:17.856 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+13:12:43.272 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+13:12:43.273 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+13:12:43.273 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:12:43.273 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+13:12:43.273 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+13:12:43.273 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+13:12:43.273 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+13:12:43.273 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+13:12:43.273 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+13:12:43.273 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+13:12:51.458 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+13:12:52.279 INFO  Helper.LogHelper VERIFY POINT: User can login with new password
+13:12:52.397 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+13:13:16.937 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+13:13:16.937 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+13:13:16.937 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:13:16.937 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+13:13:16.937 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+13:13:16.937 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+13:13:16.937 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+13:13:23.256 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+13:13:24.350 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+13:13:24.350 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+13:13:24.912 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+13:13:24.913 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+13:13:24.913 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+13:13:26.951 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+13:13:31.798 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+13:13:31.798 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+13:13:31.798 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+13:13:32.521 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+13:13:32.522 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+13:13:32.580 INFO  Helper.LogHelper Railway.ContactTests - 
+13:13:57.041 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+13:13:57.042 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+13:13:57.042 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:13:57.042 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+13:13:57.042 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+13:13:57.042 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+13:14:06.440 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+13:14:07.126 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+13:14:07.126 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+13:14:07.244 INFO  Helper.LogHelper Railway.BookTicketTests - 
+13:14:33.097 INFO  Helper.LogHelper Railway.BookTicketTests - NOT COMPLETED YET due to expectation - Click Ticket Price
+13:14:33.097 INFO  Helper.LogHelper Railway.BookTicketTests - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+13:14:33.097 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:14:33.100 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+13:14:33.100 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+13:14:34.042 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+13:14:34.044 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+13:14:34.611 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+13:14:34.612 INFO  Helper.LogHelper Railway.BookTicketTests - 
+13:14:59.923 INFO  Helper.LogHelper Railway.BookTicketTests - TC16 - User can cancel a ticket
+13:14:59.924 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+13:14:59.924 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:14:59.924 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+13:15:00.892 INFO  Helper.LogHelper STEP: 3. Book a ticket
+13:15:01.746 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" tab
+13:15:01.959 INFO  Helper.LogHelper STEP: 5. Click on "Cancel" button of ticket which user
+ want to cancel
+13:15:01.959 INFO  Helper.LogHelper STEP: 6. Click on "OK" button on Confirmation message
+ Are you sure?"
+13:15:02.131 INFO  Helper.LogHelper VERIFY POINT: The canceled ticket is disappeared.
+13:15:02.132 INFO  Helper.LogHelper  Bug #04-User cannot cancel the ticket. 
+13:15:02.229 INFO  Helper.LogHelper Railway.BookTicketTests - 
+13:15:06.920 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+13:15:06.921 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+13:15:06.921 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+13:15:06.921 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+13:15:06.921 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+13:15:08.068 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+13:15:08.141 INFO  Helper.LogHelper Railway.LoginTests - 
+13:15:12.709 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+13:15:12.709 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+13:15:12.710 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+13:15:12.710 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+13:15:12.711 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+13:15:13.736 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+13:15:13.802 INFO  Helper.LogHelper Railway.LoginTests - 
+13:15:18.419 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+13:15:18.419 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+13:15:18.419 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+13:15:18.420 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+13:15:18.420 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+13:15:19.579 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+13:15:19.579 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+13:15:19.623 INFO  Helper.LogHelper Railway.LoginTests - 
+13:15:24.283 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+13:15:24.283 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:15:24.283 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+13:15:24.283 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+13:15:24.283 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+13:15:24.284 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+13:15:26.972 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+13:15:26.972 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+13:15:26.975 INFO  Helper.LogHelper Railway.LoginTests - 
+13:15:31.584 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+13:15:31.584 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:15:31.585 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+13:15:31.585 INFO  Helper.LogHelper STEP: 3. Login with valid account
+13:15:32.892 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+13:15:33.047 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+13:15:33.114 INFO  Helper.LogHelper STEP: Click "Change password" tab
+13:15:33.360 INFO  Helper.LogHelper Railway.LoginTests - 
+13:17:52.560 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+13:17:52.568 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+13:17:52.568 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+13:17:53.604 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+13:17:53.604 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+13:17:53.681 INFO  Helper.LogHelper Railway.ContactTests - 
+13:18:32.717 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+13:18:32.727 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+13:18:32.728 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:18:32.728 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+13:18:32.728 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+13:18:32.728 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+13:18:33.541 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+13:18:33.610 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+13:18:38.303 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+13:18:38.303 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+13:18:38.304 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+13:18:38.304 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+13:18:38.304 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+13:18:42.591 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+13:18:42.655 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+13:18:47.293 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+13:18:47.293 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+13:18:47.293 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+13:18:47.293 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+13:18:47.293 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+13:18:48.342 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+13:18:48.392 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+13:18:53.010 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+13:18:53.010 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+13:18:53.010 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+13:18:53.010 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+13:18:53.011 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+13:18:55.253 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+13:18:55.254 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+13:18:55.254 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+13:18:55.402 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+17:55:51.670 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+17:55:51.688 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+17:55:51.688 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:55:51.688 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+17:55:51.688 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+17:55:51.689 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+17:55:52.382 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+17:55:52.441 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+17:55:56.493 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+17:55:56.493 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+17:55:56.494 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+17:55:56.494 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+17:55:56.494 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+17:56:02.408 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+17:56:02.468 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+17:56:06.553 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+17:56:06.553 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:56:06.553 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+17:56:06.554 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+17:56:06.554 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+17:56:07.636 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+17:56:07.695 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+17:56:11.922 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+17:56:11.922 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+17:56:11.922 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+17:56:11.922 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+17:56:11.922 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+17:56:13.019 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+17:56:13.020 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+17:56:13.020 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+17:56:13.153 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+17:56:37.194 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+17:56:37.194 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+17:56:37.194 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+17:56:40.714 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+17:56:40.715 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+17:56:40.807 INFO  Helper.LogHelper Railway.ContactTests - 
+17:57:12.231 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+17:57:12.232 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+17:57:12.232 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+17:57:12.232 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+17:57:12.232 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+17:57:16.903 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+17:57:16.970 INFO  Helper.LogHelper Railway.LoginTests - 
+17:57:21.414 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+17:57:21.414 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+17:57:21.414 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+17:57:21.414 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+17:57:21.414 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+17:57:23.197 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+17:57:23.254 INFO  Helper.LogHelper Railway.LoginTests - 
+17:57:28.394 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+17:57:28.394 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+17:57:28.394 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+17:57:28.394 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+17:57:28.394 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+17:57:30.260 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+17:57:30.261 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+17:57:30.303 INFO  Helper.LogHelper Railway.LoginTests - 
+17:57:35.235 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+17:57:35.235 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:57:35.235 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+17:57:35.235 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+17:57:35.236 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+17:57:35.236 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+17:57:38.200 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+17:57:38.201 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+17:57:38.209 INFO  Helper.LogHelper Railway.LoginTests - 
+17:57:42.893 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+17:57:42.893 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+17:57:42.893 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+17:57:42.893 INFO  Helper.LogHelper STEP: 3. Login with valid account
+17:57:44.601 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+17:57:44.788 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+17:57:44.859 INFO  Helper.LogHelper STEP: Click "Change password" tab
+17:57:45.070 INFO  Helper.LogHelper Railway.LoginTests - 
+18:03:48.960 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+18:03:48.987 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+18:03:48.987 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:03:48.987 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:03:48.987 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+18:03:48.988 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+18:03:58.016 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+18:03:58.700 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+18:03:58.701 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+18:03:58.798 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:04:23.684 INFO  Helper.LogHelper Railway.BookTicketTests - NOT COMPLETED YET due to expectation - Click Ticket Price
+18:04:23.685 INFO  Helper.LogHelper Railway.BookTicketTests - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+18:04:23.685 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:04:23.685 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:04:23.685 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+18:04:24.701 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+18:04:24.701 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+18:04:25.190 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+18:04:25.202 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:04:50.438 INFO  Helper.LogHelper Railway.BookTicketTests - TC16 - User can cancel a ticket
+18:04:50.438 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+18:04:50.439 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:04:50.439 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:04:51.417 INFO  Helper.LogHelper STEP: 3. Book a ticket
+18:04:52.237 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" tab
+18:04:52.421 INFO  Helper.LogHelper STEP: 5. Click on "Cancel" button of ticket which user
+ want to cancel
+18:04:52.422 INFO  Helper.LogHelper STEP: 6. Click on "OK" button on Confirmation message
+ Are you sure?"
+18:04:52.621 INFO  Helper.LogHelper VERIFY POINT: The canceled ticket is disappeared.
+18:04:52.622 INFO  Helper.LogHelper  Bug #04-User cannot cancel the ticket. 
+18:04:52.700 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:07:24.822 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+18:07:24.842 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+18:07:24.842 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:07:24.842 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:07:24.842 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+18:07:24.843 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+18:07:33.629 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+18:07:34.396 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+18:07:34.397 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+18:07:36.475 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:08:01.287 INFO  Helper.LogHelper Railway.BookTicketTests - NOT COMPLETED YET due to expectation - Click Ticket Price
+18:08:01.287 INFO  Helper.LogHelper Railway.BookTicketTests - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+18:08:01.287 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:08:01.287 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:08:01.287 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+18:08:02.433 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+18:08:02.434 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+18:08:02.924 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+18:08:02.947 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:08:27.929 INFO  Helper.LogHelper Railway.BookTicketTests - TC16 - User can cancel a ticket
+18:08:27.930 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+18:08:27.930 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:08:27.930 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:08:29.052 INFO  Helper.LogHelper STEP: 3. Book a ticket
+18:08:29.992 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" tab
+18:08:30.185 INFO  Helper.LogHelper STEP: 5. Click on "Cancel" button of ticket which user
+ want to cancel
+18:08:30.186 INFO  Helper.LogHelper STEP: 6. Click on "OK" button on Confirmation message
+ Are you sure?"
+18:08:30.335 INFO  Helper.LogHelper VERIFY POINT: The canceled ticket is disappeared.
+18:08:30.336 INFO  Helper.LogHelper  Bug #04-User cannot cancel the ticket. 
+18:08:30.423 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:18:37.220 INFO  Helper.LogHelper Railway.BookTicketTests - TC15 - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+18:18:37.233 INFO  Helper.LogHelper STEP: Pre-Condition: Create and activate a new account
+18:18:37.234 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:18:37.234 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:18:37.236 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+18:18:38.457 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+18:18:38.457 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+18:18:39.065 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+18:18:39.230 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:22:24.534 INFO  Helper.LogHelper Railway.BookTicketTests - TC15 - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+18:22:24.562 INFO  Helper.LogHelper STEP: Pre-Condition: Create and activate a new account
+18:22:24.562 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:22:24.562 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:22:24.562 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+18:22:25.518 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+18:22:25.518 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+18:22:26.078 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+18:22:26.683 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:23:33.150 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+18:23:33.160 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+18:23:33.161 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:23:33.161 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+18:23:33.161 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+18:23:33.161 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+18:23:33.965 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+18:23:34.035 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+18:23:38.179 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+18:23:38.180 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+18:23:38.180 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+18:23:38.180 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+18:23:38.180 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+18:23:42.572 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+18:23:42.634 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+18:23:46.818 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+18:23:46.819 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:23:46.819 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:23:46.819 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+18:23:46.819 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:23:47.870 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+18:23:47.930 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+18:23:52.067 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+18:23:52.067 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+18:23:52.067 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+18:23:52.067 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+18:23:52.067 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+18:23:53.256 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+18:23:53.256 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+18:23:53.257 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+18:23:53.399 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+18:24:20.489 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:24:20.490 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:24:20.490 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:24:20.490 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:24:20.490 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:24:20.490 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:24:20.490 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+18:24:20.490 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+18:24:20.491 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+18:24:20.491 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+18:24:28.669 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+18:24:29.400 INFO  Helper.LogHelper VERIFY POINT: User can login with new password
+18:24:29.501 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:24:54.973 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+18:24:54.973 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+18:24:54.973 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:24:54.973 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+18:24:54.973 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+18:24:54.973 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+18:24:54.974 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+18:25:01.647 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+18:25:02.716 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+18:25:02.716 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+18:25:03.217 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+18:25:03.218 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+18:25:03.218 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+18:25:05.284 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:25:09.625 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+18:25:09.625 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+18:25:09.626 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+18:25:10.338 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+18:25:10.339 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+18:25:10.389 INFO  Helper.LogHelper Railway.ContactTests - 
+18:25:36.035 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+18:25:36.035 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+18:25:36.036 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:25:36.036 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:25:36.036 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+18:25:36.036 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+18:25:45.326 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+18:25:45.962 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+18:25:45.963 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+18:25:46.053 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:26:11.494 INFO  Helper.LogHelper Railway.BookTicketTests - TC15 - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+18:26:11.494 INFO  Helper.LogHelper STEP: Pre-Condition: Create and activate a new account
+18:26:11.494 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:26:11.494 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:26:11.494 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+18:26:12.549 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+18:26:12.550 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+18:26:13.034 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+18:26:13.560 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:26:38.866 INFO  Helper.LogHelper Railway.BookTicketTests - TC16 - User can cancel a ticket
+18:26:38.866 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+18:26:38.866 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:26:38.866 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:26:39.764 INFO  Helper.LogHelper STEP: 3. Book a ticket
+18:26:40.589 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" tab
+18:26:40.793 INFO  Helper.LogHelper STEP: 5. Click on "Cancel" button of ticket which user
+ want to cancel
+18:26:40.794 INFO  Helper.LogHelper STEP: 6. Click on "OK" button on Confirmation message
+ Are you sure?"
+18:26:40.964 INFO  Helper.LogHelper VERIFY POINT: The canceled ticket is disappeared.
+18:26:40.965 INFO  Helper.LogHelper  Bug #04-User cannot cancel the ticket. 
+18:26:41.042 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:26:45.205 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+18:26:45.205 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+18:26:45.205 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+18:26:45.205 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+18:26:45.205 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+18:26:46.646 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+18:26:46.701 INFO  Helper.LogHelper Railway.LoginTests - 
+18:26:50.936 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+18:26:50.937 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+18:26:50.937 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+18:26:50.937 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+18:26:50.937 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+18:26:51.948 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+18:26:52.005 INFO  Helper.LogHelper Railway.LoginTests - 
+18:26:56.185 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+18:26:56.185 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+18:26:56.185 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+18:26:56.185 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+18:26:56.185 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+18:26:57.439 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+18:26:57.440 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+18:26:57.481 INFO  Helper.LogHelper Railway.LoginTests - 
+18:27:01.677 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+18:27:01.678 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:27:01.678 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+18:27:01.678 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+18:27:01.678 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+18:27:01.679 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+18:27:04.267 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+18:27:04.268 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+18:27:04.271 INFO  Helper.LogHelper Railway.LoginTests - 
+18:27:08.753 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+18:27:08.753 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:27:08.753 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+18:27:08.754 INFO  Helper.LogHelper STEP: 3. Login with valid account
+18:27:10.052 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+18:27:10.211 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+18:27:10.274 INFO  Helper.LogHelper STEP: Click "Change password" tab
+18:27:10.484 INFO  Helper.LogHelper Railway.LoginTests - 
+18:28:26.445 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+18:28:26.460 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+18:28:26.461 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:28:26.462 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+18:28:26.462 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+18:28:26.462 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+18:28:27.278 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+18:28:27.354 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+18:28:31.337 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+18:28:31.337 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+18:28:31.337 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+18:28:31.337 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+18:28:31.337 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+18:28:35.784 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+18:28:35.852 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+18:28:39.857 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+18:28:39.858 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:28:39.858 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:28:39.858 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+18:28:39.858 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:28:40.916 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+18:28:40.982 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+18:28:45.017 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+18:28:45.017 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+18:28:45.017 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+18:28:45.017 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+18:28:45.017 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+18:28:46.587 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+18:28:46.587 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+18:28:46.587 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+18:28:46.733 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+18:29:11.900 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:29:11.900 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:29:11.900 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:29:11.900 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:29:11.901 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:29:11.901 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:29:11.901 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+18:29:11.901 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+18:29:11.901 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+18:29:11.901 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+18:29:20.193 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+18:29:20.930 INFO  Helper.LogHelper VERIFY POINT: User can login with new password
+18:29:21.048 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:29:46.443 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+18:29:46.444 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+18:29:46.444 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:29:46.444 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+18:29:46.445 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+18:29:46.445 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+18:29:46.445 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+18:29:53.123 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+18:29:54.191 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+18:29:54.191 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+18:29:54.676 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+18:29:54.676 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+18:29:54.676 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+18:29:56.745 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:30:00.949 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+18:30:00.949 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+18:30:00.949 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+18:30:01.568 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+18:30:01.569 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+18:30:01.630 INFO  Helper.LogHelper Railway.ContactTests - 
+18:30:26.662 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+18:30:26.663 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+18:30:26.663 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:30:26.663 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:30:26.663 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+18:30:26.663 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+18:30:35.493 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+18:30:36.155 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+18:30:36.155 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+18:30:36.229 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:31:00.963 INFO  Helper.LogHelper Railway.BookTicketTests - TC15 - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+18:31:00.963 INFO  Helper.LogHelper STEP: Pre-Condition: Create and activate a new account
+18:31:00.963 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:31:00.963 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:31:00.964 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+18:31:02.032 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+18:31:02.033 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+18:31:02.504 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+18:31:03.015 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:31:28.600 INFO  Helper.LogHelper Railway.BookTicketTests - TC16 - User can cancel a ticket
+18:31:28.600 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+18:31:28.600 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:31:28.600 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:31:29.577 INFO  Helper.LogHelper STEP: 3. Book a ticket
+18:31:30.461 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" tab
+18:31:30.666 INFO  Helper.LogHelper STEP: 5. Click on "Cancel" button of ticket which user
+ want to cancel
+18:31:30.667 INFO  Helper.LogHelper STEP: 6. Click on "OK" button on Confirmation message
+ Are you sure?"
+18:31:30.834 INFO  Helper.LogHelper VERIFY POINT: The canceled ticket is disappeared.
+18:31:30.834 INFO  Helper.LogHelper  Bug #04-User cannot cancel the ticket. 
+18:31:30.913 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:31:35.068 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+18:31:35.068 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+18:31:35.068 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+18:31:35.068 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+18:31:35.068 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+18:31:36.299 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+18:31:36.349 INFO  Helper.LogHelper Railway.LoginTests - 
+18:31:40.332 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+18:31:40.332 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+18:31:40.332 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+18:31:40.332 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+18:31:40.332 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+18:31:41.490 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+18:31:41.563 INFO  Helper.LogHelper Railway.LoginTests - 
+18:31:45.594 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+18:31:45.594 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+18:31:45.594 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+18:31:45.595 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+18:31:45.595 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+18:31:46.829 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+18:31:46.830 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+18:31:46.859 INFO  Helper.LogHelper Railway.LoginTests - 
+18:31:50.881 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+18:31:50.881 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:31:50.881 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+18:31:50.881 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+18:31:50.881 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+18:31:50.881 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+18:31:53.404 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+18:31:53.404 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+18:31:53.409 INFO  Helper.LogHelper Railway.LoginTests - 
+18:31:57.472 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+18:31:57.472 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:31:57.472 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+18:31:57.472 INFO  Helper.LogHelper STEP: 3. Login with valid account
+18:31:59.034 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+18:31:59.199 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+18:31:59.255 INFO  Helper.LogHelper STEP: Click "Change password" tab
+18:31:59.495 INFO  Helper.LogHelper Railway.LoginTests - 
+18:46:49.028 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+18:46:49.041 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+18:46:49.042 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:46:49.042 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+18:46:49.042 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+18:46:49.042 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+18:46:49.756 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+18:46:49.823 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+18:46:53.898 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+18:46:53.898 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+18:46:53.899 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+18:46:53.899 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+18:46:53.899 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+18:46:58.904 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+18:46:58.964 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+18:47:02.990 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+18:47:02.991 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:47:02.991 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:47:02.991 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+18:47:02.991 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:47:04.204 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+18:47:04.263 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+18:47:08.520 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+18:47:08.521 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+18:47:08.521 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+18:47:08.521 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+18:47:08.521 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+18:47:09.610 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+18:47:09.611 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+18:47:09.612 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+18:47:09.742 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+18:47:36.641 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+18:47:36.642 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+18:47:36.642 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:47:36.642 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+18:47:36.642 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+18:47:36.642 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+18:47:36.643 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+18:47:36.643 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+18:47:36.643 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+18:47:36.643 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+18:47:45.691 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+18:47:46.405 INFO  Helper.LogHelper VERIFY POINT: User can login with new password
+18:47:46.499 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:48:12.742 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+18:48:12.742 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+18:48:12.742 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:48:12.742 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+18:48:12.742 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+18:48:12.743 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+18:48:12.743 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+18:48:20.326 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+18:48:21.388 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+18:48:21.389 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+18:48:21.872 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+18:48:21.873 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+18:48:21.873 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+18:48:23.940 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+18:48:28.042 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+18:48:28.043 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+18:48:28.043 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+18:48:28.689 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+18:48:28.690 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+18:48:28.737 INFO  Helper.LogHelper Railway.ContactTests - 
+18:48:55.517 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+18:48:55.517 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+18:48:55.517 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:48:55.517 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+18:48:55.517 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+18:48:55.517 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+18:49:04.395 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+18:49:05.019 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+18:49:05.019 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+18:49:05.107 INFO  Helper.LogHelper Railway.BookTicketTests - 
+18:49:23.105 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+18:49:23.105 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+18:49:23.105 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+18:49:23.105 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+18:49:23.105 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+18:49:24.625 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+18:49:24.695 INFO  Helper.LogHelper Railway.LoginTests - 
+18:49:29.316 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+18:49:29.316 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+18:49:29.316 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+18:49:29.316 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+18:49:29.316 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+18:49:30.515 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+18:49:30.608 INFO  Helper.LogHelper Railway.LoginTests - 
+18:49:34.911 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+18:49:34.912 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+18:49:34.912 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+18:49:34.912 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+18:49:34.912 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+18:49:36.134 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+18:49:36.135 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+18:49:36.163 INFO  Helper.LogHelper Railway.LoginTests - 
+18:49:40.290 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+18:49:40.291 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:49:40.291 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+18:49:40.291 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+18:49:40.291 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+18:49:40.291 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+18:49:43.011 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+18:49:43.011 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+18:49:43.014 INFO  Helper.LogHelper Railway.LoginTests - 
+18:49:47.028 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+18:49:47.028 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+18:49:47.028 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+18:49:47.028 INFO  Helper.LogHelper STEP: 3. Login with valid account
+18:49:48.368 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+18:49:48.516 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+18:49:48.561 INFO  Helper.LogHelper STEP: Click "Change password" tab
+18:49:48.767 INFO  Helper.LogHelper Railway.LoginTests - 
+19:12:10.725 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+19:12:10.741 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+19:12:10.741 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:12:10.741 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+19:12:10.741 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+19:12:10.741 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+19:12:11.513 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+19:12:11.587 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+19:12:15.576 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+19:12:15.576 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+19:12:15.577 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+19:12:15.577 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+19:12:15.577 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+19:12:20.116 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+19:12:20.168 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+19:12:24.218 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+19:12:24.218 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:12:24.218 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+19:12:24.218 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+19:12:24.218 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+19:12:25.345 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+19:12:25.397 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+19:12:29.475 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+19:12:29.475 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+19:12:29.475 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+19:12:29.475 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+19:12:29.475 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+19:12:30.712 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+19:12:30.712 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+19:12:30.712 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+19:12:30.831 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+19:12:55.572 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+19:12:55.572 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+19:12:55.572 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:12:55.572 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+19:12:55.572 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+19:12:55.572 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+19:12:55.572 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+19:12:55.573 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+19:12:55.573 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+19:12:55.573 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+19:13:03.605 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+19:13:04.285 INFO  Helper.LogHelper VERIFY POINT: User can login with new password
+19:13:04.376 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+19:13:29.644 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+19:13:29.644 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+19:13:29.645 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:13:29.645 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+19:13:29.645 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+19:13:29.645 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+19:13:29.645 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+19:13:36.424 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+19:13:37.490 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+19:13:37.490 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+19:13:37.965 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+19:13:37.966 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+19:13:37.966 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+19:13:40.019 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+19:13:44.236 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+19:13:44.236 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+19:13:44.236 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+19:13:44.892 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+19:13:44.893 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+19:13:44.945 INFO  Helper.LogHelper Railway.ContactTests - 
+19:14:03.208 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+19:14:03.209 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+19:14:03.210 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+19:14:03.210 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+19:14:03.210 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+19:14:04.700 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+19:14:04.769 INFO  Helper.LogHelper Railway.LoginTests - 
+19:14:09.930 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+19:14:09.930 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+19:14:09.930 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+19:14:09.930 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+19:14:09.931 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+19:14:11.406 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+19:14:11.472 INFO  Helper.LogHelper Railway.LoginTests - 
+19:14:16.121 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+19:14:16.122 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+19:14:16.122 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+19:14:16.122 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+19:14:16.122 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+19:14:17.518 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+19:14:17.518 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+19:14:17.561 INFO  Helper.LogHelper Railway.LoginTests - 
+19:14:21.518 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+19:14:21.518 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:14:21.518 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+19:14:21.519 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+19:14:21.519 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+19:14:21.519 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+19:14:24.287 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+19:14:24.287 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+19:14:24.295 INFO  Helper.LogHelper Railway.LoginTests - 
+19:14:28.541 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+19:14:28.542 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:14:28.542 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+19:14:28.542 INFO  Helper.LogHelper STEP: 3. Login with valid account
+19:14:29.854 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+19:14:30.012 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+19:14:30.069 INFO  Helper.LogHelper STEP: Click "Change password" tab
+19:14:30.300 INFO  Helper.LogHelper Railway.LoginTests - 
+19:17:57.987 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+19:17:58.000 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+19:17:58.000 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:17:58.000 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+19:17:58.000 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+19:17:58.000 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+19:17:58.745 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+19:17:58.810 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+19:18:02.785 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+19:18:02.785 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+19:18:02.785 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+19:18:02.785 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+19:18:02.786 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+19:18:07.284 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+19:18:07.347 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+19:18:11.284 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+19:18:11.284 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:18:11.284 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+19:18:11.284 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+19:18:11.284 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+19:18:12.431 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+19:18:12.494 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+19:18:16.516 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+19:18:16.516 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+19:18:16.516 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+19:18:16.516 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+19:18:16.516 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+19:18:17.630 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+19:18:17.631 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+19:18:17.632 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+19:18:17.749 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+19:18:42.735 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+19:18:42.736 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+19:18:42.736 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:18:42.736 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+19:18:42.736 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+19:18:42.736 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+19:18:42.736 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+19:18:42.737 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+19:18:42.737 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+19:18:42.737 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+19:18:50.728 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+19:18:51.412 INFO  Helper.LogHelper VERIFY POINT: User can login with new password
+19:18:51.520 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+19:19:16.869 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+19:19:16.869 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+19:19:16.869 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:19:16.869 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+19:19:16.869 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+19:19:16.870 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+19:19:16.870 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+19:19:23.109 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+19:19:24.187 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+19:19:24.187 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+19:19:24.726 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+19:19:24.726 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+19:19:24.727 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+19:19:26.784 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+19:19:30.982 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+19:19:30.983 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+19:19:30.983 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+19:19:31.683 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+19:19:31.683 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+19:19:31.731 INFO  Helper.LogHelper Railway.ContactTests - 
+19:21:38.944 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+19:21:38.963 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+19:21:38.963 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:21:38.963 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+19:21:38.964 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+19:21:38.964 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+19:21:43.496 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+19:21:43.496 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+19:21:43.496 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+19:21:43.496 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+19:21:43.497 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+19:21:45.219 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+19:21:45.316 INFO  Helper.LogHelper Railway.LoginTests - 
+19:21:52.991 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+19:21:52.991 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+19:21:52.991 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+19:21:52.991 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+19:21:52.991 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+19:21:54.668 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+19:21:54.742 INFO  Helper.LogHelper Railway.LoginTests - 
+19:21:56.002 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+19:21:56.789 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+19:21:56.790 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+19:21:56.917 INFO  Helper.LogHelper Railway.BookTicketTests - 
+19:22:00.688 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+19:22:00.688 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+19:22:00.689 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+19:22:00.689 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+19:22:00.689 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+19:22:03.559 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+19:22:03.560 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+19:22:03.611 INFO  Helper.LogHelper Railway.LoginTests - 
+19:22:08.429 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+19:22:08.429 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:22:08.429 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+19:22:08.429 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+19:22:08.429 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+19:22:08.429 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+19:22:12.625 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+19:22:12.625 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+19:22:12.628 INFO  Helper.LogHelper Railway.LoginTests - 
+19:22:17.924 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+19:22:17.924 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:22:17.924 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+19:22:17.924 INFO  Helper.LogHelper STEP: 3. Login with valid account
+19:22:19.895 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+19:22:20.154 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+19:22:20.235 INFO  Helper.LogHelper STEP: Click "Change password" tab
+19:22:20.566 INFO  Helper.LogHelper Railway.LoginTests - 
+19:22:29.266 INFO  Helper.LogHelper Railway.BookTicketTests - TC15 - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+19:22:29.266 INFO  Helper.LogHelper STEP: Pre-Condition: Create and activate a new account
+19:22:29.266 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:22:29.266 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+19:22:29.267 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+19:22:30.278 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+19:22:30.279 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+19:22:30.759 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+19:22:31.269 INFO  Helper.LogHelper Railway.BookTicketTests - 
+19:22:56.758 INFO  Helper.LogHelper Railway.BookTicketTests - TC16 - User can cancel a ticket
+19:22:56.758 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+19:22:56.758 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:22:56.758 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+19:22:57.694 INFO  Helper.LogHelper STEP: 3. Book a ticket
+19:22:58.538 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" tab
+19:22:58.733 INFO  Helper.LogHelper STEP: 5. Click on "Cancel" button of ticket which user
+ want to cancel
+19:22:58.734 INFO  Helper.LogHelper STEP: 6. Click on "OK" button on Confirmation message
+ Are you sure?"
+19:22:58.885 INFO  Helper.LogHelper VERIFY POINT: The canceled ticket is disappeared.
+19:22:58.887 INFO  Helper.LogHelper  Bug #04-User cannot cancel the ticket. 
+19:22:58.960 INFO  Helper.LogHelper Railway.BookTicketTests - 
+19:24:30.488 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - TC08 - User can't login with an account hasn't been activated
+19:24:30.503 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - Pre-Condition: Create a new account but do not activate it
+19:24:30.503 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:24:30.504 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+19:24:30.505 INFO  Helper.LogHelper STEP: 3. Enter username and password of account hasn't been activated.
+19:24:30.505 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+19:24:31.273 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "Invalid username or password. Please try again." appears.
+19:24:31.344 INFO  Helper.LogHelper Railway.ManageAccountWithInactivatedAccount - 
+19:24:35.458 INFO  Helper.LogHelper Railway.ManageAccountTests - TC07 - User can create new account
+19:24:35.458 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+19:24:35.458 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+19:24:35.458 INFO  Helper.LogHelper STEP: 3- Enter valid information into all fields
+19:24:35.458 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+19:24:40.043 INFO  Helper.LogHelper VERIFY POINT: Message "Thank you for registering your account" appears
+19:24:40.098 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+19:24:44.068 INFO  Helper.LogHelper Railway.ManageAccountTests - TC10 - User can't reset password if enter incorrect email address
+19:24:44.068 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:24:44.068 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+19:24:44.068 INFO  Helper.LogHelper STEP: 3. Enter an un-existing email address
+19:24:44.068 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+19:24:45.231 INFO  Helper.LogHelper VERIFY POINT: Error message "This email address doesn't exist." displays.
+19:24:45.283 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+19:24:49.248 INFO  Helper.LogHelper Railway.ManageAccountTests - User can't create account while password and PID fields are empty
+19:24:49.248 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+19:24:49.248 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+19:24:49.249 INFO  Helper.LogHelper STEP: 3- Enter valid email address and leave other fields empty
+19:24:49.249 INFO  Helper.LogHelper STEP: 4- Click on "Register" button
+19:24:50.439 INFO  Helper.LogHelper VERIFY POINT: "There're errors in the form. Please correct the errors and try again." appears above the form.
+19:24:50.440 INFO  Helper.LogHelper VERIFY POINT: Next to password fields, error message 'Invalid password length.' displays
+19:24:50.440 INFO  Helper.LogHelper VERIFY POINT: Next to PID field, error message 'Invalid ID length.' displays
+19:24:50.584 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+19:25:15.860 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC09 - User can reset password successfully
+19:25:15.861 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-Condition: Create and activate a new account
+19:25:15.861 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:25:15.861 INFO  Helper.LogHelper STEP: 2. Click on "Forgot Password page" link
+19:25:15.861 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Pre condition
+19:25:15.861 INFO  Helper.LogHelper STEP: 4. Click on "Send Instructions" button
+19:25:15.861 INFO  Helper.LogHelper STEP: 5. Navigate to mailbox and open the Please reset your password email
+19:25:15.861 INFO  Helper.LogHelper STEP: 6. Click on the reset password link
+19:25:15.862 INFO  Helper.LogHelper STEP: 7. Enter a new password for both password fields
+19:25:15.862 INFO  Helper.LogHelper STEP: 8. Click "Reset Password" button
+19:25:24.185 INFO  Helper.LogHelper VERIFY POINT: Message'Password changed! Click here to login.' displays.
+19:25:24.907 INFO  Helper.LogHelper VERIFY POINT: User can login with new password
+19:25:24.999 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+19:25:49.779 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - TC12 - Errors display when password reset token is blank
+19:25:49.779 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - Pre-condition: Create and activate a new account
+19:25:49.780 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:25:49.780 INFO  Helper.LogHelper STEP: 2. Click on 'Forgot Password page' link
+19:25:49.780 INFO  Helper.LogHelper STEP: 3. Enter the email address of the created account in Precondition
+19:25:49.780 INFO  Helper.LogHelper STEP: 4. Click on 'Send Instructions' button
+19:25:49.780 INFO  Helper.LogHelper STEP: 5. Open mailbox and click on reset password link
+19:25:56.341 INFO  Helper.LogHelper VERIFY POINT: Password Change Form" page displays
+19:25:57.409 INFO  Helper.LogHelper STEP: 6. Enter new passwords and remove the Password Reset Token
+19:25:57.409 INFO  Helper.LogHelper STEP: 7. Click 'Reset Password' button
+19:25:57.910 INFO  Helper.LogHelper  Bug #03-User cannot remove the Password Reset Token 
+19:25:57.911 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one." displays above the form.
+19:25:57.911 INFO  Helper.LogHelper VERIFY POINT: Error message "The password reset token is invalid." displays next to the "Password Reset Token" field.
+19:25:59.924 INFO  Helper.LogHelper Railway.ManageAccountWithActivatedAccount - 
+19:26:03.992 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+19:26:03.992 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+19:26:03.992 INFO  Helper.LogHelper Railway.ContactTests - 2. Click on "Contact" tab
+19:26:04.723 INFO  Helper.LogHelper Railway.ContactTests - 3. Check the email address
+19:26:04.723 INFO  Helper.LogHelper VERIFY POINT: Email address's href is "mailto:thanh.viet.le@logigear.com"
+19:26:04.780 INFO  Helper.LogHelper Railway.ContactTests - 
+19:26:31.435 INFO  Helper.LogHelper Railway.BookTicketTests - TC14 - User can't book more than 10 tickets
+19:26:31.435 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+19:26:31.435 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:26:31.435 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+19:26:31.436 INFO  Helper.LogHelper STEP: 3. Click on "Book ticket"
+ tab
+19:26:31.436 INFO  Helper.LogHelper STEP: 4. Book 10 tickets
+19:26:40.416 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" tab again
+19:26:41.133 INFO  Helper.LogHelper VERIFY POINT: Error message "There're errors in the form. Please correct the errors and try again." displays above the form.
+19:26:41.133 INFO  Helper.LogHelper VERIFY POINT: Error message "You have booked 10 tickets. You can book no more." displays next to Ticket amount field.
+19:26:41.221 INFO  Helper.LogHelper Railway.BookTicketTests - 
+19:27:07.264 INFO  Helper.LogHelper Railway.BookTicketTests - TC15 - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+19:27:07.264 INFO  Helper.LogHelper STEP: Pre-Condition: Create and activate a new account
+19:27:07.264 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:27:07.264 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+19:27:07.264 INFO  Helper.LogHelper STEP: 3. Click on "Ticket price" tab
+19:27:08.126 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+19:27:08.127 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+19:27:08.681 INFO  Helper.LogHelper VERIFY POINT: Book ticket page displays with correct values which user selected.
+19:27:10.699 INFO  Helper.LogHelper Railway.BookTicketTests - 
+19:27:36.045 INFO  Helper.LogHelper Railway.BookTicketTests - TC16 - User can cancel a ticket
+19:27:36.045 INFO  Helper.LogHelper Railway.BookTicketTests - Pre-condition: Create and activate a new account
+19:27:36.046 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:27:36.046 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+19:27:36.962 INFO  Helper.LogHelper STEP: 3. Book a ticket
+19:27:37.909 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" tab
+19:27:38.102 INFO  Helper.LogHelper STEP: 5. Click on "Cancel" button of ticket which user
+ want to cancel
+19:27:38.103 INFO  Helper.LogHelper STEP: 6. Click on "OK" button on Confirmation message
+ Are you sure?"
+19:27:38.245 INFO  Helper.LogHelper VERIFY POINT: The canceled ticket is disappeared.
+19:27:38.245 INFO  Helper.LogHelper  Bug #04-User cannot cancel the ticket. 
+19:27:38.319 INFO  Helper.LogHelper Railway.BookTicketTests - 
+19:27:42.559 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+19:27:42.559 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+19:27:42.559 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+19:27:42.559 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+19:27:42.559 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+19:27:43.710 INFO  Helper.LogHelper VERIFY POINT: User is logged into Railway. Welcome user message is displayed.
+19:27:43.769 INFO  Helper.LogHelper Railway.LoginTests - 
+19:27:47.828 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+19:27:47.828 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+19:27:47.828 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+19:27:47.828 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+19:27:47.828 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+19:27:48.835 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+19:27:48.907 INFO  Helper.LogHelper Railway.LoginTests - 
+19:27:52.858 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+19:27:52.858 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+19:27:52.858 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+19:27:52.858 INFO  Helper.LogHelper STEP: 3- Enter Username and leave Password as blank
+19:27:52.859 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+19:27:53.970 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "There was a problem with your login and/or errors exist in your form. " appears.
+19:27:53.972 INFO  Helper.LogHelper  Bug_TC03_01-'There was a problem with your login and/or errors exits in your form' message does not appear 
+19:27:54.025 INFO  Helper.LogHelper Railway.LoginTests - 
+19:27:57.965 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+19:27:57.965 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:27:57.965 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+19:27:57.966 INFO  Helper.LogHelper STEP: 3. Enter valid information into "Username" textbox except "Password" textbox.
+19:27:57.966 INFO  Helper.LogHelper STEP: 4. Click on "Login" button
+19:27:57.966 INFO  Helper.LogHelper STEP: 5. Repeat step 3 three more times.
+19:28:00.497 INFO  Helper.LogHelper VERIFY POINT: User can't login and message "You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes." appears.
+19:28:00.497 INFO  Helper.LogHelper  Bug_TC05_01-'You have used 4 out of 5 login attempts. After all 5 have been used, you will be unable to login for 15 minutes.' message does not appear 
+19:28:00.501 INFO  Helper.LogHelper Railway.LoginTests - 
+19:28:04.514 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+19:28:04.514 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:28:04.514 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+19:28:04.514 INFO  Helper.LogHelper STEP: 3. Login with valid account
+19:28:05.986 INFO  Helper.LogHelper STEP: 4- Click "My ticket" tab
+19:28:06.134 INFO  Helper.LogHelper VERIFY POINT: User will be directed to My ticket page
+19:28:06.181 INFO  Helper.LogHelper STEP: Click "Change password" tab
+19:28:06.381 INFO  Helper.LogHelper Railway.LoginTests - 
+19:57:39.669 INFO  Helper.LogHelper Railway.FinalTest - Pre-condition: Create and activate a new account
+19:57:39.684 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+19:57:39.684 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+19:57:39.684 INFO  Helper.LogHelper STEP: 3. Book more than 6 tickets with different Depart Dates
+19:57:48.695 INFO  Helper.LogHelper Railway.FinalTest - 
+20:01:41.723 INFO  Helper.LogHelper Railway.FinalTest - Pre-condition: Create and activate a new account
+20:01:41.742 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+20:01:41.742 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+20:01:41.743 INFO  Helper.LogHelper STEP: 3. Book more than 6 tickets with different Depart Dates
+20:01:48.409 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" button
+20:01:48.409 INFO  Helper.LogHelper STEP: 5. Input one of booked Depart Date in "Depart date" textbox
+20:01:48.410 INFO  Helper.LogHelper STEP: 6. Click on "Apply filter" button
+20:01:48.992 INFO  Helper.LogHelper VERIFY POINT: Manage ticket table shows correct ticket(s)
+20:01:49.093 INFO  Helper.LogHelper Railway.FinalTest - 
+20:04:02.680 INFO  Helper.LogHelper Railway.FinalTest - Pre-condition: Create and activate a new account
+20:04:02.701 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+20:04:02.702 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+20:04:02.703 INFO  Helper.LogHelper STEP: 3. Book more than 6 tickets with different Depart Dates
+20:04:09.534 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" button
+20:04:09.535 INFO  Helper.LogHelper STEP: 5. Input one of booked Depart Date in "Depart date" textbox
+20:04:09.535 INFO  Helper.LogHelper STEP: 6. Click on "Apply filter" button
+20:04:10.036 INFO  Helper.LogHelper VERIFY POINT: Manage ticket table shows correct ticket(s)
+20:04:13.414 INFO  Helper.LogHelper Railway.FinalTest - 
+20:07:45.662 INFO  Helper.LogHelper Railway.FinalTest - Pre-condition: Create and activate a new account
+20:07:45.679 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+20:07:45.680 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+20:07:45.680 INFO  Helper.LogHelper STEP: 3. Book more than 6 tickets with different Depart Dates
+20:07:52.980 INFO  Helper.LogHelper STEP: 4. Click on "My ticket" button
+20:07:52.981 INFO  Helper.LogHelper STEP: 5. Input one of booked Depart Date in "Depart date" textbox
+20:07:52.981 INFO  Helper.LogHelper STEP: 6. Click on "Apply filter" button
+20:07:53.449 INFO  Helper.LogHelper VERIFY POINT: Manage ticket table shows correct ticket(s)
+20:07:55.709 INFO  Helper.LogHelper Railway.FinalTest - 
+20:26:09.748 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+20:26:09.761 INFO  Helper.LogHelper STEP: 2. Register new account with valid values
+20:26:09.762 INFO  Helper.LogHelper STEP: 3. Open mailbox and open the activation email
+20:26:09.762 INFO  Helper.LogHelper STEP: 4. Get the activation code
+20:26:27.355 INFO  Helper.LogHelper Railway.FinalTest2 - 

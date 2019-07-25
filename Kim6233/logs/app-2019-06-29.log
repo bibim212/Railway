@@ -1,0 +1,42 @@
+00:04:55.649 INFO  Helper.LogHelper Railway.BookTicketTests - 
+10:40:23.026 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+10:40:23.040 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+10:40:44.282 INFO  Helper.LogHelper Railway.BookTicketTests - 
+10:40:48.231 INFO  Helper.LogHelper Railway.BookTicketTests - 
+10:42:30.843 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+10:42:30.851 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+10:43:31.372 INFO  Helper.LogHelper Railway.BookTicketTests - 
+10:50:38.768 INFO  Helper.LogHelper Railway.BookTicketTests - NOT COMPLETED YET due to expectation
+10:50:38.777 INFO  Helper.LogHelper Railway.BookTicketTests - User can open "Book ticket" page by click on "Book ticket" link in "Ticket price"
+10:50:39.192 INFO  Helper.LogHelper STEP: 4. Click on any ticket from list
+10:50:39.193 INFO  Helper.LogHelper Railway.BookTicketTests - Qu?ng Ngãi
+10:50:39.193 INFO  Helper.LogHelper Railway.BookTicketTests - ?à N?ng
+10:50:39.193 INFO  Helper.LogHelper STEP: 5. Click on "Book ticket" for any seat type
+10:50:39.193 INFO  Helper.LogHelper Railway.BookTicketTests - Soft seat with air conditioner
+10:50:48.204 INFO  Helper.LogHelper Railway.BookTicketTests - 
+11:34:09.503 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:34:09.511 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+11:34:09.511 INFO  Helper.LogHelper STEP: 3. Book a ticket
+11:34:10.318 INFO  Helper.LogHelper Railway.BookTicketTests - 
+11:43:25.525 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:43:25.541 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+11:43:25.541 INFO  Helper.LogHelper STEP: 3. Book a ticket
+11:43:25.636 INFO  Helper.LogHelper Railway.BookTicketTests - 
+11:44:03.189 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+11:44:03.197 INFO  Helper.LogHelper STEP: 2. Login with a valid account
+11:44:03.197 INFO  Helper.LogHelper STEP: 3. Book a ticket
+11:44:04.971 INFO  Helper.LogHelper Railway.BookTicketTests - 
+22:14:32.837 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+22:15:35.205 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+22:18:31.790 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+22:19:36.210 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+22:20:03.274 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+22:21:05.429 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+22:25:45.837 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+22:26:12.955 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+22:27:07.350 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+22:27:24.080 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+22:30:34.234 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+22:30:51.503 INFO  Helper.LogHelper Railway.ManageAccountTests - 
+22:50:33.572 INFO  Helper.LogHelper Railway.BookTicketTests - 
+22:51:07.506 INFO  Helper.LogHelper Railway.BookTicketTests - 

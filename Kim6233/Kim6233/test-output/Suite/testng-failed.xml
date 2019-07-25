@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Railway.ManageAccountWithActivatedAccount">
+        <methods>
+          <include name="TC12_Errors_display_when_password_reset_token_is_blank"/>
+          <include name="TC09_User_can_reset_password_successfully"/>
+          <include name="CreateAndActiveAccountBeforeMethod"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Railway.ManageAccountWithActivatedAccount -->
+      <class name="Railway.ManageAccountTests">
+        <methods>
+          <include name="TC07_User_can_create_new_account"/>
+          <include name="TC10_User_cannot_reset_password_if_enter_incorrect_email_address"/>
+          <include name="FTTC02_User_can_also_active_new_account_using_activate_code"/>
+          <include name="TC11_User_cannot_create_account_while_password_and_PID_fields_are_empty"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Railway.ManageAccountTests -->
+      <class name="Railway.ManageAccountWithInactivatedAccount">
+        <methods>
+          <include name="TC08_User_cannot_login_with_an_account_hasnot_been_activated"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+          <include name="CreateAccountBeforeMethod"/>
+        </methods>
+      </class> <!-- Railway.ManageAccountWithInactivatedAccount -->
+      <class name="Railway.BookTicketsTests">
+        <methods>
+          <include name="TC14_User_cannot_book_more_than_10_tickets"/>
+          <include name="CreateAndActiveAccountBeforeMethod"/>
+          <include name="TC15_User_can_open_Book_ticket_page_by_clicking_on_Book_ticket_link_in_Ticket_price"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Railway.BookTicketsTests -->
+      <class name="Railway.ContactTests">
+        <methods>
+          <include name="TC04_Contact_Email_contains_correct_href_value_which_can_help_to_quickly_open_Outlook_Compose_Message_dialog"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Railway.ContactTests -->
+      <class name="Railway.LoginTests">
+        <methods>
+          <include name="TC03_User_cannot_log_into_Railway_with_invalid_password"/>
+          <include name="TC02_User_cannot_login_with_blank_Username_textbox"/>
+          <include name="TC06_Additional_pages_display_once_user_logged_in"/>
+          <include name="TC05_System_shows_message_when_user_enters_wrong_password_several_times"/>
+          <include name="TC01_User_can_log_into_Railway_with_valid_username_and_password"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Railway.LoginTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

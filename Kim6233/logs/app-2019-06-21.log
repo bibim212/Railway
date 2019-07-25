@@ -1,0 +1,19 @@
+21:10:38.772 INFO  Utilities.LogHelper Railway.LoginTests - -12aaaaaaaaaaaaaaaaaaa3456-
+21:26:56.945 INFO  Utilities.LogHelper Railway.LoginTests - TC_01 - Login successfully with valid credentials
+21:26:56.955 INFO  Utilities.LogHelper pages.GeneralPage - Open URL: https://www.google.com/gmail/
+21:27:48.502 INFO  Utilities.LogHelper Railway.LoginTests - TC_01 - Login successfully with valid credentials
+21:27:48.515 INFO  Utilities.LogHelper Railway.LoginTests - Step 1- 
+21:27:48.516 INFO  Utilities.LogHelper pages.GeneralPage - Open URL: https://www.google.com/gmail/
+21:37:01.691 INFO  Utilities.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:37:01.698 INFO  Utilities.LogHelper General.GMailTests - Step 1- 
+21:37:01.699 INFO  Utilities.LogHelper pages.GeneralPage - Open URL: https://www.google.com/gmail/
+21:37:59.739 INFO  Utilities.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:37:59.747 INFO  Utilities.LogHelper General.GMailTests - Step 1- 
+21:37:59.748 INFO  Utilities.LogHelper pages.GeneralPage - Open URL: https://www.google.com/gmail/
+21:38:46.362 INFO  Utilities.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:38:46.370 INFO  Utilities.LogHelper General.GMailTests - Step 1- 
+21:38:46.372 INFO  Utilities.LogHelper pages.GeneralPage - Open URL: https://www.google.com/gmail/
+21:38:48.536 INFO  Utilities.LogHelper pages.GMailLoginPage - Login to Gmail.....
+22:08:44.587 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+22:08:44.597 INFO  Helper.LogHelper pages.GeneralPage - Open URL: https://www.google.com/gmail/
+22:08:48.915 INFO  Helper.LogHelper pages.GMailLoginPage - Login to Gmail.....

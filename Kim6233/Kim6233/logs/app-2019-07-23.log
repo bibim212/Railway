@@ -1,0 +1,11 @@
+21:58:03.192 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+21:58:03.200 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:58:03.201 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:58:03.201 INFO  Helper.LogHelper STEP: 3- Enter valid Email and Password
+21:58:03.201 INFO  Helper.LogHelper STEP: 4- Click on "Login" button
+21:58:24.505 INFO  Helper.LogHelper Railway.LoginTests - 
+21:58:37.478 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+21:58:37.479 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:58:37.482 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:58:37.482 INFO  Helper.LogHelper STEP: 3- Leave Username as blank, enter Password
+21:58:37.483 INFO  Helper.LogHelper STEP: 4- Click on "Login" button

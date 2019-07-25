@@ -1,0 +1,93 @@
+20:24:19.853 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+20:24:23.494 INFO  Helper.LogHelper pages.GMailLoginPage - Login to Gmail.....
+20:24:26.128 INFO  Helper.LogHelper General.GMailTests - 
+20:25:34.909 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+20:25:53.092 INFO  Helper.LogHelper General.GMailTests - 
+20:27:08.408 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+20:27:16.529 INFO  Helper.LogHelper pages.GMailLoginPage - Login to Gmail.....
+20:27:28.842 INFO  Helper.LogHelper General.GMailTests - 
+21:18:53.890 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:19:04.527 INFO  Helper.LogHelper pages.GmailPage - Login to Gmail.....
+21:19:39.025 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:19:47.812 INFO  Helper.LogHelper pages.GmailPage - Login to Gmail.....
+21:20:04.894 INFO  Helper.LogHelper General.GMailTests - 
+21:20:26.613 INFO  Helper.LogHelper General.GMailTests - 
+21:20:44.761 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+21:20:44.774 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:20:53.183 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:20:53.263 INFO  Helper.LogHelper Railway.LoginTests - 
+21:20:57.459 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+21:20:57.459 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:21:03.517 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:21:03.586 INFO  Helper.LogHelper Railway.LoginTests - 
+21:21:07.872 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+21:21:07.873 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:21:14.606 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:21:14.665 INFO  Helper.LogHelper Railway.LoginTests - 
+21:21:18.998 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+21:21:18.999 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:21:24.086 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+21:21:24.136 INFO  Helper.LogHelper Railway.LoginTests - 
+21:21:28.385 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+21:21:28.385 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:21:34.833 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+21:21:34.889 INFO  Helper.LogHelper Railway.LoginTests - 
+21:27:57.788 INFO  Helper.LogHelper Railway.ContactTests - TC_04 - Contact Email contains correct href value which can help to quickly open Outlook Compose Message dialog
+21:27:57.795 INFO  Helper.LogHelper Railway.ContactTests - 1. Navigate to QA Railway Website
+21:28:02.302 INFO  Helper.LogHelper Railway.RegisterTests - TC07 - User can create new account
+21:28:02.303 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:28:11.077 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:28:11.202 INFO  Helper.LogHelper Railway.RegisterTests - 
+21:28:15.494 INFO  Helper.LogHelper Railway.RegisterTests - TC08 - User can't login with an account hasn't been activated
+21:28:15.494 INFO  Helper.LogHelper Railway.RegisterTests - Pre-Condition: Create a new account but do not activate it
+21:28:15.495 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:28:21.178 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:28:21.537 INFO  Helper.LogHelper Railway.RegisterTests - 
+21:28:25.783 INFO  Helper.LogHelper Railway.RegisterTests - User can't create account while password and PID fields are empty
+21:28:25.783 INFO  Helper.LogHelper STEP: 1- Navigate to QA Railway Website
+21:28:33.991 INFO  Helper.LogHelper STEP: 2- Click on "Register" tab
+21:28:34.082 INFO  Helper.LogHelper Railway.RegisterTests - 
+21:28:38.349 INFO  Helper.LogHelper Railway.LoginTests - TC01 - Login successfully with valid credentials
+21:28:38.350 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:28:43.684 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:28:43.741 INFO  Helper.LogHelper Railway.LoginTests - 
+21:28:48.110 INFO  Helper.LogHelper Railway.LoginTests - TC02 - Login fails when leaving Username as blank
+21:28:48.110 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:28:56.383 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:28:56.466 INFO  Helper.LogHelper Railway.LoginTests - 
+21:29:00.646 INFO  Helper.LogHelper Railway.LoginTests - TC03 - Login fails when leaving Password as blank
+21:29:00.646 INFO  Helper.LogHelper STEP: 1- Navigate to Railway site
+21:29:06.472 INFO  Helper.LogHelper STEP: 2- Click on "Login" tab
+21:29:06.570 INFO  Helper.LogHelper Railway.LoginTests - 
+21:29:10.843 INFO  Helper.LogHelper Railway.LoginTests - TC05 - System shows message when user enters wrong password several times
+21:29:10.843 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:29:19.459 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+21:29:19.916 INFO  Helper.LogHelper Railway.LoginTests - 
+21:29:24.211 INFO  Helper.LogHelper Railway.LoginTests - TC06 - Additional pages display once user logged in
+21:29:24.211 INFO  Helper.LogHelper STEP: 1. Navigate to QA Railway Website
+21:29:31.165 INFO  Helper.LogHelper STEP: 2. Click on "Login" tab
+21:29:31.258 INFO  Helper.LogHelper Railway.LoginTests - 
+21:31:51.542 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:31:53.655 INFO  Helper.LogHelper pages.GmailPage - Login to Gmail.....
+21:31:55.969 INFO  Helper.LogHelper General.GMailTests - 
+21:32:51.282 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:32:53.500 INFO  Helper.LogHelper pages.GmailPage - Login to Gmail.....
+21:32:55.671 INFO  Helper.LogHelper General.GMailTests - 
+21:47:15.119 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:47:17.456 INFO  Helper.LogHelper pages.GmailLoginPage - Login to Gmail.....
+21:47:19.717 INFO  Helper.LogHelper General.GMailTests - 
+21:49:50.078 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+21:49:52.459 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+21:49:54.613 INFO  Helper.LogHelper General.GMailTests - 
+22:17:42.296 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+22:17:45.001 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+22:18:47.691 INFO  Helper.LogHelper General.GMailTests - 
+22:38:18.730 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+22:38:21.106 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+22:39:34.906 INFO  Helper.LogHelper General.GMailTests - 
+22:41:32.613 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+22:41:34.865 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+22:42:48.197 INFO  Helper.LogHelper General.GMailTests - 
+22:43:22.123 INFO  Helper.LogHelper General.GMailTests - TC_01 - Login GMail successfully
+22:43:24.364 INFO  Helper.LogHelper Gmail.GmailLoginPage - Login to Gmail.....
+22:44:38.712 INFO  Helper.LogHelper General.GMailTests - 
